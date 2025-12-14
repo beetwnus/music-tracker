@@ -28,6 +28,11 @@ MY_ARTISTS = [
 DATA_FILE = "songs_data.json"
 NAME_MAPPING = {}
 
+def get_taiwan_time():
+    """取得台灣時間 (UTC+8)"""
+    # GitHub Server 是 UTC，所以我們要 +8 小時
+    return datetime.utcnow() + timedelta(hours=8)
+
 def load_existing_data():
     if os.path.exists(DATA_FILE):
         try:
@@ -39,7 +44,8 @@ def load_existing_data():
     return []
 
 def scrape_job():
-    print(f"[{datetime.now()}] 雲端爬蟲啟動...")
+    # ✅ 使用台灣時間顯示 Log
+    print(f"[{get_taiwan_time()}] 雲端爬蟲啟動 (台灣時間)...")
     
     existing_songs = load_existing_data()
     existing_links = {song['link'] for song in existing_songs}
@@ -89,7 +95,8 @@ def scrape_job():
                     "title": title,
                     "image": img_src,
                     "link": link,
-                    "found_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
+                    # ✅ 這裡改用台灣時間
+                    "found_at": get_taiwan_time().strftime("%Y-%m-%d %H:%M"),
                     "is_tracked": is_tracked
                 }
                 new_songs.append(new_song)
@@ -102,9 +109,11 @@ def scrape_job():
 
     # 合併與清理
     full_song_list = new_songs + existing_songs
-    now = datetime.now()
-    cutoff_90 = now - timedelta(days=90)
-    cutoff_1 = now - timedelta(days=1)
+    
+    # ✅ 計算截止日期時，也要用台灣時間基準
+    now_tw = get_taiwan_time()
+    cutoff_90 = now_tw - timedelta(days=90)
+    cutoff_1 = now_tw - timedelta(days=1)
     
     final_list = []
     
@@ -119,7 +128,8 @@ def scrape_job():
             final_list.append(song)
 
     data_to_save = {
-        "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        # ✅ 最後更新時間也改用台灣時間
+        "updated_at": get_taiwan_time().strftime("%Y-%m-%d %H:%M:%S"),
         "songs": final_list
     }
     
