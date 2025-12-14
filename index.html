@@ -19,6 +19,8 @@
             --accent-color: #5CC9F5;
             --text-main: #FFFFFF;
             --text-sub: #B0B0B0;
+            --input-bg: #222222;
+            --input-focus-bg: #333333;
         }
 
         body {
@@ -30,6 +32,7 @@
             transition: color 1.5s ease;
         }
 
+        /* === Header 樣式優化 === */
         header {
             background-color: var(--bg-header);
             height: 70px;
@@ -52,6 +55,8 @@
             display: flex;
             align-items: center;
             color: var(--text-main);
+            white-space: nowrap;
+            margin-right: 20px;
         }
 
         .highlight-text {
@@ -60,13 +65,55 @@
             margin-right: 4px;
         }
 
+        /* === 🔍 搜尋框樣式 === */
+        .search-container {
+            flex-grow: 1;
+            max-width: 400px;
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .search-input {
+            width: 100%;
+            background-color: var(--input-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 20px;
+            padding: 8px 15px 8px 35px;
+            /* 左邊留給 icon */
+            color: var(--text-main);
+            font-size: 14px;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            background-color: var(--input-focus-bg);
+            border-color: var(--accent-color);
+            box-shadow: 0 0 8px rgba(92, 201, 245, 0.2);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 12px;
+            color: var(--text-sub);
+            font-size: 14px;
+            pointer-events: none;
+        }
+
+        .update-info {
+            font-size: 12px;
+            color: #888;
+            white-space: nowrap;
+            margin-left: 20px;
+        }
+
         .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 30px;
         }
 
-        /* 區塊標題樣式 */
         .section-title {
             font-size: 28px;
             font-weight: 800;
@@ -179,7 +226,6 @@
             font-size: 14px;
         }
 
-        /* 其他藝人區塊稍微暗一點，區分層級 */
         #othersArea .card {
             opacity: 0.9;
         }
@@ -188,13 +234,24 @@
             opacity: 1;
         }
 
+        /* 手機版適配：隱藏更新時間，讓位給搜尋框 */
         @media (max-width: 600px) {
             header {
                 padding: 0 15px;
+                gap: 10px;
             }
 
             .update-info {
                 display: none;
+            }
+
+            .logo {
+                font-size: 20px;
+                margin-right: 0;
+            }
+
+            .search-container {
+                max-width: 100%;
             }
         }
     </style>
@@ -203,19 +260,25 @@
 <body>
     <header>
         <div class="logo"><span class="highlight-text">genie</span> tracker</div>
-        <div class="update-info" style="font-size: 12px; color: #888;" id="statusText">Connecting...</div>
+
+        <div class="search-container">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" class="search-input" placeholder="Search artist or song..."
+                oninput="filterData()">
+        </div>
+
+        <div class="update-info" id="statusText">Connecting...</div>
     </header>
 
     <div class="container">
         <div class="section-title">⭐ My Artists</div>
         <div id="myArea"></div>
 
-        <div class="section-title" style="margin-top: 80px;">🌍 Other New Releases (Today)</div>
+        <div class="section-title" style="margin-top: 80px;">🌍 Other New Releases</div>
         <div id="othersArea"></div>
     </div>
 
     <script>
-        // QWER 應援色
         const qwerColors = ['#5CC9F5', '#69DB7C', '#FFFFFF', '#FF85C2'];
         let colorIndex = 0;
         setInterval(() => {
@@ -223,11 +286,13 @@
             colorIndex = (colorIndex + 1) % qwerColors.length;
         }, 4000);
 
+        // 用來儲存完整資料的全域變數
+        let globalSongs = [];
+
         document.addEventListener('DOMContentLoaded', fetchData);
 
         async function fetchData() {
             try {
-                // 強制抓取最新資料
                 const res = await fetch('songs_data.json?t=' + new Date().getTime(), {
                     cache: "no-store",
                     headers: { 'Cache-Control': 'no-cache' }
@@ -235,14 +300,11 @@
                 const data = await res.json();
                 document.getElementById('statusText').innerText = `Updated: ${data.updated_at}`;
 
-                // 資料分類
-                const allSongs = data.songs || [];
-                const mySongs = allSongs.filter(s => s.is_tracked); // 追蹤的
-                const otherSongs = allSongs.filter(s => !s.is_tracked); // 其他的
+                // 儲存原始資料
+                globalSongs = data.songs || [];
 
-                // 渲染兩個區域
-                renderGroup(mySongs, 'myArea', 90);
-                renderGroup(otherSongs, 'othersArea', 1);
+                // 初始渲染 (無搜尋條件)
+                filterData();
 
             } catch (err) {
                 console.error(err);
@@ -250,22 +312,42 @@
             }
         }
 
+        // ✅ 新增：篩選資料函式
+        function filterData() {
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+
+            // 根據輸入框內容過濾 (比對 歌名 或 藝人名)
+            const filteredSongs = globalSongs.filter(song => {
+                const title = song.title ? song.title.toLowerCase() : "";
+                const artist = song.artist ? song.artist.toLowerCase() : "";
+                return title.includes(query) || artist.includes(query);
+            });
+
+            // 分類過濾後的資料
+            const mySongs = filteredSongs.filter(s => s.is_tracked);
+            const otherSongs = filteredSongs.filter(s => !s.is_tracked);
+
+            // 重新渲染畫面
+            renderGroup(mySongs, 'myArea', 90);
+            renderGroup(otherSongs, 'othersArea', 1);
+        }
+
         function renderGroup(songs, containerId, keepDays) {
             const container = document.getElementById(containerId);
             container.innerHTML = '';
 
-            // 前端再次過濾日期 (雙重保險)
             const cutoffDate = new Date();
             cutoffDate.setDate(cutoffDate.getDate() - keepDays);
 
             const activeSongs = songs.filter(s => new Date(s.found_at) > cutoffDate);
 
+            // 如果搜尋後沒結果，顯示 Not Found
             if (activeSongs.length === 0) {
-                container.innerHTML = `<div class="status-msg">No releases found in the last ${keepDays} days.</div>`;
+                const msg = document.getElementById('searchInput').value ? "No matches found." : `No releases found in the last ${keepDays} days.`;
+                container.innerHTML = `<div class="status-msg">${msg}</div>`;
                 return;
             }
 
-            // 排序 (最新的在前面)
             activeSongs.sort((a, b) => new Date(b.found_at) - new Date(a.found_at));
 
             let lastDateStr = '', currentGrid = null;
