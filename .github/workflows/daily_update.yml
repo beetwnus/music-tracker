@@ -39,7 +39,12 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
+          
+          # 加入所有變更
           git add songs_data.json
-          # 如果資料沒變更，不報錯也不上傳
-          git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          
+          # ✅ 重點修改：加入 --allow-empty
+          # 這樣就算 JSON 沒變，也會強制產生一個 Commit 紀錄
+          git commit --allow-empty -m "Auto update: $(date +'%Y-%m-%d %H:%M')"
+          
           git push
