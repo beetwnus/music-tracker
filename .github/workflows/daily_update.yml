@@ -5,12 +5,14 @@ on:
   # 台灣時間 11:17 = UTC 03:17
   # 台灣時間 17:17 = UTC 09:17
   # 台灣時間 23:17 = UTC 15:17
+  # (設在 17 分是為了避開整點塞車)
   schedule:
     - cron: '17 3,9,15 * * *'
   
   # 2. 允許手動按下按鈕觸發 (方便測試)
   workflow_dispatch:
 
+# 開啟寫入權限 (關鍵)
 permissions:
   contents: write
 
@@ -37,14 +39,16 @@ jobs:
 
       - name: Commit and Push (存檔並上傳)
         run: |
+          # 設定機器人身分
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          # 加入所有變更
+          # 加入資料庫變更
           git add songs_data.json
           
-          # ✅ 重點修改：加入 --allow-empty
-          # 這樣就算 JSON 沒變，也會強制產生一個 Commit 紀錄
+          # 建立 Commit (即使沒變更也強制紀錄，確保 Workflow 活著)
           git commit --allow-empty -m "Auto update: $(date +'%Y-%m-%d %H:%M')"
           
-          git push
+          # ✅ 強制推送 (Force Push)
+          # 這行是解決 rejected 錯誤的關鍵，確保雲端資料一定會更新
+          git push -f
