@@ -1,11 +1,12 @@
 import json
 import requests
 import os
+import re  # ✅ 新增正則表達式模組
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 
 # ==========================================
-# 1. 設定監控藝人名單 (已更新)
+# 1. 設定監控藝人名單
 # ==========================================
 MY_ARTISTS = [
     "(G)I-DLE", "A train to autumn", "ADORA", "ADYA", "aespa", "AKMU", "Apink", "ARIAZ", 
@@ -49,6 +50,25 @@ def load_existing_data():
         except: return []
     return []
 
+# ✅ 新增：智慧比對函式
+def is_artist_match(target, text):
+    """
+    判斷 text 中是否包含 target 藝人。
+    針對短英文 (如 IU) 啟用嚴格邊界檢查，避免誤判 (如 XIUMIN 包含 IU)。
+    """
+    target = target.lower()
+    text = text.lower()
+    
+    # 判斷條件：如果 target 是純英數字 且 長度小於等於 3 (例如 IU, V, X1)
+    if len(target) <= 3 and re.match(r'^[a-z0-9]+$', target):
+        # 使用 Regex 檢查前後邊界 (前後不能是英文字母或數字)
+        # 這樣 IU 就不會對到 XIUMIN，但可以對到 IU(Lee) 或 IU,
+        pattern = r'(?:^|[^a-z0-9])' + re.escape(target) + r'(?:$|[^a-z0-9])'
+        return re.search(pattern, text) is not None
+    
+    # 其他情況 (中文、韓文、長英文名) 維持原本的寬鬆包含檢查
+    return target in text
+
 # ==========================================
 # 主邏輯
 # ==========================================
@@ -75,10 +95,10 @@ def scrape_job():
                 artist_elem = song.select_one("a.artist")
                 original_artist_name = artist_elem.text.strip() if artist_elem else "未知藝人"
 
-                # 判斷是否為追蹤藝人
+                # ✅ 使用新的比對邏輯
                 is_tracked = False
                 for target in MY_ARTISTS:
-                    if target.lower() in original_artist_name.lower():
+                    if is_artist_match(target, original_artist_name):
                         is_tracked = True
                         break
                 
@@ -87,11 +107,10 @@ def scrape_job():
 
                 if link in existing_links: continue
 
-                # 只有追蹤的藝人才處理名稱對應
                 display_artist_name = original_artist_name
                 if is_tracked:
                     for key_word, custom_name in NAME_MAPPING.items():
-                        if key_word.lower() in original_artist_name.lower():
+                        if is_artist_match(key_word, original_artist_name):
                             display_artist_name = custom_name
                             break
 
@@ -132,13 +151,10 @@ def scrape_job():
     
     final_list = []
     
-    # ✅ 預先取得時區物件，供下面使用
     tz_tw = get_taiwan_timezone()
 
     for song in full_song_list:
         try:
-            # ✅ 修正重點：解析時間後，手動加上台灣時區資訊
-            # 解決 TypeError: can't compare offset-naive and offset-aware datetimes
             song_datetime_naive = datetime.strptime(song['found_at'], "%Y-%m-%d %H:%M")
             song_datetime = song_datetime_naive.replace(tzinfo=tz_tw)
             
