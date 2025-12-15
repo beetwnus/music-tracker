@@ -1,6 +1,142 @@
 {
-    "updated_at": "2025-12-14 23:31:34",
+    "updated_at": "2025-12-15 12:11:35",
     "songs": [
+        {
+            "artist": "SUNNYKEY (써니키)",
+            "title": "CRUSH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/041/569/87041569_1765440700801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113031095",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "현성",
+            "title": "In this silence",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/041/510/87041510_1765439560371_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113030869",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "트래블러 (TRAVELLER) & 김예준",
+            "title": "맛남의 광장 (Flavor Square)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/044/342/87044342_1765507610407_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113041991",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "Puer Kim (퓨어킴)",
+            "title": "어른의 장면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/020/941/87020941_1765501835154_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112951599",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "20세기보이즈 (20th Century Boy'z)",
+            "title": "너 없는 크리스마스(Christmas Without You)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/036/324/87036324_1765361649297_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113009654",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "그리드웨이",
+            "title": "다시 사랑할 수 있을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/040/723/87040723_1765421203163_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113026900",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "pedlar",
+            "title": "Love and Patience",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/041/432/87041432_1765438322817_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113030660",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "엄태환",
+            "title": "밤손 (아련히 아름답다)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/040/787/87040787_1765422105942_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113027128",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "아마고",
+            "title": "니가 그리워져서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/041/334/87041334_1765436189980_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113030288",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "파니니 브런치 (PANINI BRUNCH)",
+            "title": "너만이 내 이유",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/020/909/87020909_1765430658698_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112951461",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "소밍",
+            "title": "요즘감성, 우리 Part.17 그렇게 우린 끝난 거야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/032/457/87032457_1765765832011_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112995429",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "3.14 (삼점일사)",
+            "title": "Shut Up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/645/87037645_1765520536424_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113014646",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "하렌 (Haren)",
+            "title": "Ta dak",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/036/668/87036668_1765530243133_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113011112",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "쌔미 (Sammee) & 천하은 & 와이챈스 (Whychns) & Swallov & HUHYUN & 4RANG (사랑)",
+            "title": "XX Cypher",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/042/286/87042286_1765469493232_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113034967",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "이내꿈",
+            "title": "Single Cup",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/038/040/87038040_1765447001668_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113016252",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "유명종",
+            "title": "afterglow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/329/87037329_1765447005871_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113013490",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "송좌 (Songjwa)",
+            "title": "도망쳐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/819/87037819_1765351661319_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113015395",
+            "found_at": "2025-12-15 12:11",
+            "is_tracked": false
+        },
         {
             "artist": "엔분의일 (1/N)",
             "title": "장면 45.",
@@ -232,13 +368,6 @@
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113014052",
             "found_at": "2025-12-14 18:56",
             "is_tracked": false
-        },
-        {
-            "artist": "푸디토리움 (Pudditorium)",
-            "title": "［Epilogue : Hope］ EP8.",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/040/650/87040650_1765420074187_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113026531",
-            "found_at": "2025-12-14 11:00"
         }
     ]
 }
