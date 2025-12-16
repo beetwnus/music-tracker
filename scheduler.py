@@ -9,21 +9,29 @@ from datetime import datetime, timedelta, timezone
 # 1. 設定監控藝人名單
 # ==========================================
 MY_ARTISTS = [
-    "(G)I-DLE", "A train to autumn", "ADORA", "ADYA", "aespa", "AKMU", "Apink", "ARIAZ", 
-    "BABYMONSTER", "BADVILLAIN", "Baek A Yeon", "BBGIRLS", "Billlie", "BLACKPINK", "BOL4", 
-    "Brave Girls", "BTS", "BVNDIT", "Choi Yoo jung", "Chung Ha", "CLASS:y", "CLC", "CSR", 
-    "Dreamcatcher", "EL7Z UP", "Ellui", "Eunha", "EVERGLOW", "FAVORITE", "FIFTY FIFTY", 
-    "fromis_9", "Geenius", "GFRIEND", "Girls Planet 999", "GOT the beat", "GREE", "IU", 
-    "KyoungSeo", "Kyung Dasom", "LA LIMA", "LE SSERAFIM", "LEE CHAE YEON", "LEE HI", "LIGHTSUM", 
-    "lilli lilli", "Lim Kim", "LIMELIGHT", "Limesoda", "Lisa", "LOONA", "LUNARSOLAR", "LUNCH", 
-    "Mamamoo", "mimiirose", "Minnie", "Miyeon", "MOMOLAND", "Moonbyul", "MRCH", "NANA", "NAYEON", 
-    "NewJeans", "NMIXX", "NND", "OH MY GIRL", "PIXY", "PLAYBACK", "PRODUCE 48", "Punch", 
-    "PURPLE KISS", "Qeendom2", "QWER", "Red Velvet", "RESCENE", "Rocket Punch", "Rolling Quartz", 
-    "Rosé", "Rothy", "Ryu Su Jeong", "Saebit", "SECRET NUMBER", "Seo Dahyun", "SEULGI", "Shaun", 
-    "SinB", "siso", "Solar", "Somi", "SOOJIN", "Soyeon", "STAYC", "Suzy", "SWAN", "T-ara", 
-    "TAEYEON", "TRI.BE", "tripleS", "TWICE", "TZUYU", "Umji", "VIVIZ", "Weeekly", "Weki Meki", 
-    "Wendy", "Wheein", "WINTER", "WJSN", "Woo Yerin", "woo!ah!", "WSG Wannabe", "X1", "XG", 
-    "Yein", "YENA", "Yerin", "YongYong", "YooA", "Younha", "Yuju", "Yunsae", "Yuqi"
+    "ADORA", "ADYA", "aespa", "AKMU", "Apink",
+    "BABYMONSTER", "BADVILLAIN", "Baek A Yeon", "BBGIRLS",
+    "Billlie", "BLACKPINK", "BOL4", "BTS", "Choi Yoo jung", 
+    "Chung Ha", "CLASS:y", "CSR", "Dreamcatcher", "EL7Z UP", "Ellui", 
+    "Eunha", "EVERGLOW", "FIFTY FIFTY", "fromis_9", "Geenius", "GFRIEND",
+    "GOT the beat", "Gyubin", "H1-KEY", "Hayeon", "Hearts2Hearts", "Hebi",
+    "HUH YUNJIN", "HwaSa", "Hyoyeon", "i-dle", "ILLIT", "ILY:1",
+    "ITZY", "IU", "IVE", "izna", "Jennie", "Jeong hyo bean",
+    "JIHYO", "JISOO", "JO YURI", "Joy", "Kang Hye Won",
+    "KARD", "Kassy", "Kep1er", "KiiiKiii", "Kim Mi Jeong",
+    "Kim Sejeong", "KIMDOAH", "KISS OF LIFE", "Kwon Eun Bi",
+    "KyoungSeo", "LE SSERAFIM", "LEE CHAE YEON", "LEE HI",
+    "LIGHTSUM", "lilli lilli", "Lim Kim", "LIMELIGHT",
+    "Lisa", "Mamamoo", "Minnie", "Miyeon", "Moonbyul",
+    "MRCH", "NANA", "NAYEON", "NewJeans", "NMIXX", "OH MY GIRL",
+    "Punch", "QWER", "Red Velvet", "RESCENE", "Rosé", "Rothy",
+    "Ryu Su Jeong", "Saebit", "SECRET NUMBER", "Seo Dahyun",
+    "SEULGI", "SinB", "siso", "Solar", "Somi", "SOOJIN",
+    "Soyeon", "STAYC", "Suzy", "SWAN", "Taeyeon", "T-ara",
+    "TRI.BE", "tripleS", "TWICE", "TZUYU", "Umji",
+    "VIVIZ", "Wendy", "Wheein", "WINTER", "WJSN",
+    "Woo Yerin", "woo!ah!", "Yein", "YENA", "Yerin",
+    "YooA", "Younha", "Yuju", "Yunsae", "Yuqi"
 ]
 
 DATA_FILE = "songs_data.json"
