@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-16 12:20:21",
+    "updated_at": "2025-12-16 17:39:49",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,94 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "경서 & 주시크 (Joosiq)",
+            "title": "너를 생각해 (경서 x 주시크)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/045/375/87045375_1765527098611_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113046677",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUCY",
+            "title": "아이돌아이 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/459/87052459_1765850819522_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113074059",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "카더가든",
+            "title": "Blue Heart",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/175/87053175_1765781863592_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113076352",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "구름",
+            "title": "에어플레인 모드",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/320/87037320_1765763587430_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113013434",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "5SECONDS",
+            "title": "5SECONDS CAROL Vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/041/014/87041014_1765445546818_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113028913",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "유니크노트 (Uniqnote)",
+            "title": "떠나지마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/045/368/87045368_1765779299695_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113046608",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "MJ (ASTRO)",
+            "title": "12시 25분 (CLOCK)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/192/87053192_1765781903413_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113076464",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "Klozer",
+            "title": "Waiting For You (feat. 대니 구)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/738/87037738_1765350700843_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113015126",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "JUNNY (주니)",
+            "title": "SEASONS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/154/87053154_1765781797233_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113076320",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "임도혁",
+            "title": "너와 함께, 크리스마스",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/032/334/87032334_1765433408417_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112994997",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "원영",
+            "title": "Answer",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/045/705/87045705_1765532208433_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113047640",
+            "found_at": "2025-12-16 17:39",
+            "is_tracked": false
+        },
         {
             "artist": "아일릿 (ILLIT)",
             "title": "ALL FOR YOU, 2027",
