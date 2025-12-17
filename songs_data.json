@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-17 12:01:36",
+    "updated_at": "2025-12-17 17:41:03",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,126 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "Pill Black",
+            "title": "Wembley",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/026/87053026_1765779998331_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075876",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "김조한",
+            "title": "Jingle Berry",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/538/87053538_1765786296777_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113077435",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "가인 & 조권",
+            "title": "우리 사랑하게 됐어요 (오늘 밤, 세계에서 이 사랑이 사라진다 해도 X 가인, 조권)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/179/87057179_1765871227684_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113093443",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "도유카 (doyouka)",
+            "title": "i wish",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/188/87057188_1765871490785_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113093521",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "적재",
+            "title": "만약에 우리 OST Special Track",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/314/87052314_1765872644683_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113073616",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "리뎀션즈",
+            "title": "Hiding in the corner again",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/467/87057467_1765875390516_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094453",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "lofi",
+            "title": "home (feat. Shane)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/055/342/87055342_1765840297855_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113084903",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "성리",
+            "title": "알랑가 모르겠어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/048/87053048_1765875957779_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075958",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "김세정",
+            "title": "태양계",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/314/87057314_1765873590584_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094066",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "김민성",
+            "title": "121 병동",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/028/651/87028651_1765844975266_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112980902",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "강허달림",
+            "title": "강허달림 20th",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/040/980/87040980_1765763944284_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113028510",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hamburg Student",
+            "title": "To Comfort Myself",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/631/87037631_1765847117340_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113014589",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "승희",
+            "title": "사랑이 아닌 사랑에 우린 남이 되었어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/031/055/87031055_1765789118447_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112990332",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "9F",
+            "title": "HELLO, MERRY CHRISTMAS & HAPPY NEW YEAR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/178/87057178_1765871216920_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113093441",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hearts2Hearts (하츠투하츠) & 0to & ScreaM Records",
+            "title": "ScreaM Rookies : The Chase (Remixes)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/515/87057515_1765876071697_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094642",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": true
+        },
         {
             "artist": "려진",
             "title": "ㅠuㅠ",
