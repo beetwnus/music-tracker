@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-18 12:02:46",
+    "updated_at": "2025-12-18 17:40:31",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,126 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "하이라이트 (HIGHLIGHT)",
+            "title": "HIGHLIGHT LIVE 2025 〈RIDE OR DIE〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/843/87060843_1765943562554_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113107499",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "기현 (몬스타엑스)",
+            "title": "Bad Liar (베일드뮤지션 X 기현 (몬스타엑스) with 정동면 강철성대)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/217/87056217_1766021270078_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113089023",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이빌론 (Babylon)",
+            "title": "Gift",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/004/266/87004266_1764577591896_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112889693",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "옥주현",
+            "title": "White (화이트)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/346/87061346_1765952258912_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110402",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "40 (포티)",
+            "title": "살구잼과 크래커",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/029/640/87029640_1765433401025_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112984308",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "LURU(루루)",
+            "title": "Deck The Halls",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/041/434/87041434_1765847214007_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113030671",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "SOOVI (수비)",
+            "title": "What Should I Do?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/336/87057336_1765873932351_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094125",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "entoy",
+            "title": "When it turns white",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/410/87061410_1765953690506_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110746",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "다혜 & 동진",
+            "title": "As ever",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/557/87057557_1765876909815_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094848",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "FIVE O ONE",
+            "title": "FIVE O ONE 20th Anniversary Digital Single",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/326/87061326_1765952191698_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110366",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "안예슬",
+            "title": "처량",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/895/87052895_1765861052798_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075388",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "손예지",
+            "title": "영원이 된다 해도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/032/534/87032534_1765961779189_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112995820",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "린지 (Leenzy) & 정선",
+            "title": "loveeachothermore.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/624/87057624_1766023214829_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113095090",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "영보이 슈웨이 (Youngboy Shui)",
+            "title": "CHARIZMA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/380/87056380_1765855290426_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113089626",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kim Young Jun",
+            "title": "Hidden Place",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/024/87056024_1765872413761_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113088071",
+            "found_at": "2025-12-18 17:40",
+            "is_tracked": false
+        },
         {
             "artist": "Picturemegreen & OlEO (오엘이오)",
             "title": "love again",
