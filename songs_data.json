@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-18 17:40:31",
+    "updated_at": "2025-12-18 23:36:27",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,14 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "지코 (ZICO) & Lilas",
+            "title": "DUET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/065/295/87065295_1766020300460_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113126945",
+            "found_at": "2025-12-18 23:36",
+            "is_tracked": false
+        },
         {
             "artist": "하이라이트 (HIGHLIGHT)",
             "title": "HIGHLIGHT LIVE 2025 〈RIDE OR DIE〉",
