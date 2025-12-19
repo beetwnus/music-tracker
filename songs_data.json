@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-19 12:04:23",
+    "updated_at": "2025-12-19 17:36:22",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,126 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "박보검",
+            "title": "응답하라 1988 10주년 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/579/87060579_1765938695773_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113106358",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세계아이돌",
+            "title": "화이트 (White)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/065/289/87065289_1766020292160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113126944",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤아 (YOONA)",
+            "title": "Wish to Wish",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/746/87066746_1766040991249_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113133647",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "blah",
+            "title": "Falling for You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/085/87061085_1766044939717_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113108767",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "한지예",
+            "title": "Overflow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/000/87066000_1766027828752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113129778",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "이병찬",
+            "title": "설중화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/705/87066705_1766039501568_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113133307",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "Healody",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/028/872/87028872_1765263965546_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112981539",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "조문근",
+            "title": "마리와 별난 아빠들 OST Part.8",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/701/87060701_1766020547745_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113106925",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "글 (GLL)",
+            "title": "이강에는 달이 흐른다 OST Part.8",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/642/87066642_1766038590450_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113133058",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "모혁두",
+            "title": "Central hyukdo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/494/87061494_1765954607145_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113111093",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "지코 (ZICO) & Lilas",
+            "title": "DUET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/065/295/87065295_1766020300460_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113126945",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "아일릿 (ILLIT)",
+            "title": "NOT CUTE ANYMORE (Holiday Remixes)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/479/87066479_1766035905292_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113131955",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": true
+        },
+        {
+            "artist": "하이라이트 (HIGHLIGHT)",
+            "title": "HIGHLIGHT LIVE 2025 〈RIDE OR DIE〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/843/87060843_1765943562554_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113107499",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "기현 (몬스타엑스)",
+            "title": "Bad Liar (베일드뮤지션 X 기현 (몬스타엑스) with 정동면 강철성대)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/217/87056217_1766021270078_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113089023",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이빌론 (Babylon)",
+            "title": "Gift",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/004/266/87004266_1764577591896_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112889693",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": false
+        },
         {
             "artist": "니코 & 김수진 & 최유민 & 리노 & 윤채은 & 미리카 & 사사",
             "title": "언프리티 랩스타 : 힙팝 프린세스 Track #10, #11, #12 (파이널)",
