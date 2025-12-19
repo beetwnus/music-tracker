@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-18 23:36:27",
+    "updated_at": "2025-12-19 12:04:23",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -123,283 +123,123 @@
     ],
     "songs": [
         {
-            "artist": "지코 (ZICO) & Lilas",
-            "title": "DUET",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/065/295/87065295_1766020300460_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113126945",
-            "found_at": "2025-12-18 23:36",
+            "artist": "니코 & 김수진 & 최유민 & 리노 & 윤채은 & 미리카 & 사사",
+            "title": "언프리티 랩스타 : 힙팝 프린세스 Track #10, #11, #12 (파이널)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/009/87066009_1766028100539_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113129812",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "하이라이트 (HIGHLIGHT)",
-            "title": "HIGHLIGHT LIVE 2025 〈RIDE OR DIE〉",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/843/87060843_1765943562554_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113107499",
-            "found_at": "2025-12-18 17:40",
+            "artist": "xeom boi",
+            "title": "Day 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/905/87056905_1765865491685_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113092028",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "기현 (몬스타엑스)",
-            "title": "Bad Liar (베일드뮤지션 X 기현 (몬스타엑스) with 정동면 강철성대)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/217/87056217_1766021270078_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113089023",
-            "found_at": "2025-12-18 17:40",
+            "artist": "이현우",
+            "title": "인디30",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/038/87066038_1766028995406_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113130056",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "베이빌론 (Babylon)",
-            "title": "Gift",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/004/266/87004266_1764577591896_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112889693",
-            "found_at": "2025-12-18 17:40",
+            "artist": "로버스 (Rovers)",
+            "title": "Overcast",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/596/87061596_1765956112835_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113111706",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "옥주현",
-            "title": "White (화이트)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/346/87061346_1765952258912_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110402",
-            "found_at": "2025-12-18 17:40",
+            "artist": "길려원",
+            "title": "미스트롯4 예선전 베스트 PART1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/749/87066749_1766041000495_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113133701",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "40 (포티)",
-            "title": "살구잼과 크래커",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/029/640/87029640_1765433401025_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112984308",
-            "found_at": "2025-12-18 17:40",
+            "artist": "IRO(아이로)",
+            "title": "외딴섬에서 너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/794/87053794_1765847224263_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113078494",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "LURU(루루)",
-            "title": "Deck The Halls",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/041/434/87041434_1765847214007_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113030671",
-            "found_at": "2025-12-18 17:40",
+            "artist": "꿈의 악마",
+            "title": "여명",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/306/87061306_1766047294336_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110218",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "SOOVI (수비)",
-            "title": "What Should I Do?",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/336/87057336_1765873932351_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094125",
-            "found_at": "2025-12-18 17:40",
+            "artist": "OTHANKQ (오땡큐)",
+            "title": "음바페",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/259/87053259_1765957525528_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113076611",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "entoy",
-            "title": "When it turns white",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/410/87061410_1765953690506_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110746",
-            "found_at": "2025-12-18 17:40",
+            "artist": "박현호",
+            "title": "좀 치네",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/632/87037632_1766017451299_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113014616",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "다혜 & 동진",
-            "title": "As ever",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/557/87057557_1765876909815_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094848",
-            "found_at": "2025-12-18 17:40",
+            "artist": "오닐 (ONiLL)",
+            "title": "Love Letter",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/313/87056313_1765874031853_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113089339",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "FIVE O ONE",
-            "title": "FIVE O ONE 20th Anniversary Digital Single",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/326/87061326_1765952191698_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110366",
-            "found_at": "2025-12-18 17:40",
+            "artist": "양하진",
+            "title": "오늘은 취하고 싶어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/065/429/87065429_1766021501053_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113127582",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "안예슬",
-            "title": "처량",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/895/87052895_1765861052798_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075388",
-            "found_at": "2025-12-18 17:40",
+            "artist": "문사장",
+            "title": "My Groove",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/041/573/87041573_1765953077411_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113031130",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "손예지",
-            "title": "영원이 된다 해도",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/032/534/87032534_1765961779189_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112995820",
-            "found_at": "2025-12-18 17:40",
+            "artist": "리디아 (Lydia)",
+            "title": "너라는 지붕 아래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/040/963/87040963_1766035486137_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113028360",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "린지 (Leenzy) & 정선",
-            "title": "loveeachothermore.",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/624/87057624_1766023214829_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113095090",
-            "found_at": "2025-12-18 17:40",
+            "artist": "Hyunooble",
+            "title": "천둥 구름 비바람 O.S.T Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/672/87060672_1766020415791_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113106668",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
-            "artist": "영보이 슈웨이 (Youngboy Shui)",
-            "title": "CHARIZMA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/380/87056380_1765855290426_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113089626",
-            "found_at": "2025-12-18 17:40",
-            "is_tracked": false
-        },
-        {
-            "artist": "Kim Young Jun",
-            "title": "Hidden Place",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/024/87056024_1765872413761_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113088071",
-            "found_at": "2025-12-18 17:40",
-            "is_tracked": false
-        },
-        {
-            "artist": "Picturemegreen & OlEO (오엘이오)",
-            "title": "love again",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/963/87052963_1765779107840_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075608",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "공훈",
-            "title": "친구되고 애인되고",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/715/87056715_1765863090584_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113091444",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "전수경",
-            "title": "WINTER",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/690/87056690_1765862514843_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113091171",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "아이사 (AISA)",
-            "title": "너와 나 (Sugar Light)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/729/87037729_1765847197054_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113015023",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "알레프 (ALEPH)",
-            "title": "미워하지마",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/024/754/87024754_1765327005948_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112964540",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "차우주",
-            "title": "내일이면",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/535/87061535_1765955238326_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113111239",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "수소진",
-            "title": "아직 너를 사랑하는 건 맞아",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/349/87061349_1765952271602_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110415",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "제이세라 (J-Cera)",
-            "title": "잊었니",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/529/87057529_1765876346183_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094694",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "NEWRULES",
-            "title": "OAO",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/418/87053418_1765783897101_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113076943",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "Rosoulful",
-            "title": "TALK",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/536/87053536_1765786290387_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113077434",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "CHAD BURGER",
-            "title": "HAPPY ENDING",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/859/87056859_1765955184632_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113091839",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "0018",
-            "title": "결국, 너에게 닿을 테니까",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/845/87052845_1765776104761_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075142",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "마지(MAZI)",
-            "title": "그날의 사람",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/060/87056060_1765963456314_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113088224",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "Molly Yam",
-            "title": "TIKTOKSTA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/044/841/87044841_1765531731723_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113044596",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "모닝커피 (Morning Coffee)",
-            "title": "노래 담은 그림책 Page.11 고마워 널 사랑했던 나 (Thank You, My Love)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/348/87061348_1765952267964_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110420",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "BAD HABBIT",
-            "title": "XO & XO",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/697/87060697_1765940509121_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113106884",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "노네 (none)",
-            "title": "잠깐이라도 우리였던",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/039/989/87039989_1765405591012_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113023537",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "심상명",
-            "title": "Neverland",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/011/87053011_1765952822480_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075823",
-            "found_at": "2025-12-18 12:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "FDR (에프디알)",
-            "title": "몇 번의 겨울 Remix",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/031/103/87031103_1765961772099_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112990435",
-            "found_at": "2025-12-18 12:02",
+            "artist": "빈스프라우트 (BEANSPROUT)",
+            "title": "히어로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/031/144/87031144_1766017397816_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112990522",
+            "found_at": "2025-12-19 12:04",
             "is_tracked": false
         },
         {
