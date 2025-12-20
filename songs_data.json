@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-20 11:55:42",
+    "updated_at": "2025-12-20 17:31:05",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,126 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "솔루션스 (THE SOLUTIONS)",
+            "title": "우화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/056/812/87056812_1765864294351_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113091718",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "KAMA",
+            "title": "Roll Thru",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/699/87066699_1766039490406_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113133290",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "이바다",
+            "title": "러브 미 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/641/87066641_1766129490172_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113133033",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "G-DRAGON & Anderson .Paak & Alan Walker",
+            "title": "TOO BAD – Alan Walker Remix",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/493/87071493_1766129498798_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113155652",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "homezone",
+            "title": "Twenties",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/354/87071354_1766127124424_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113154834",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "keemsunho & 이현서 & Bigstoneboi",
+            "title": "대동단결 1집",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/338/87071338_1766127090772_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113154780",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "모어 (more)",
+            "title": "Better With U",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/613/87061613_1765956693912_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113111824",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "토네이도",
+            "title": "넌 왜 헤어지자는 말을 크리스마스에 하니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/497/87066497_1766035946432_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113132039",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "임세민",
+            "title": "화려한 날들 OST Part.19",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/065/471/87065471_1766022128600_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113127714",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "에코비",
+            "title": "너가 그리운 날에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/594/87053594_1766036049867_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113077826",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "송소희",
+            "title": "이강에는 달이 흐른다 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/724/87066724_1766040104859_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113133431",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "이시대 (LEE XI DAE) & Winnie The Kidd",
+            "title": "Ballin'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/030/324/87030324_1765447946173_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=112987185",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "DooRi (두리)",
+            "title": "촛불 켜는 밤",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/062/136/87062136_1766123775978_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113114746",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "세진",
+            "title": "베개",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/037/954/87037954_1765353702824_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113015862",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세계아이돌",
+            "title": "화이트 (White)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/065/289/87065289_1766020292160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113126944",
+            "found_at": "2025-12-20 17:31",
+            "is_tracked": false
+        },
         {
             "artist": "빌리어코스티",
             "title": "조용히 흐르던 우리의 시간 Vol.1",
