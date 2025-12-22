@@ -6,9 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Genie Tracker</title>
     <link rel="icon" type="image/png" href="static/icon.png">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&family=Open+Sans:wght@400;600;700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg-main: #121212;
@@ -128,7 +126,7 @@
             align-items: center;
             gap: 6px;
             transition: all 0.3s;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
         }
 
         .toggle-btn:hover {
@@ -138,12 +136,11 @@
 
         #artistListContainer {
             display: none;
-            /* 預設隱藏 */
             background-color: var(--card-bg);
             border: 1px solid var(--card-border);
             padding: 20px;
             border-radius: 12px;
-            margin-bottom: 40px;
+            margin-bottom: 30px;
             animation: fadeIn 0.3s ease;
         }
 
@@ -173,39 +170,73 @@
             transform: translateY(-2px);
         }
 
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(-10px);
-            }
+        /* === 🔹 新增：Tabs 分頁樣式 === */
+        .tabs {
+            display: flex;
+            gap: 20px;
+            border-bottom: 1px solid var(--card-border);
+            margin-bottom: 20px;
+        }
 
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+        .tab-btn {
+            background: none;
+            border: none;
+            color: var(--text-sub);
+            font-size: 18px;
+            font-weight: 700;
+            padding: 10px 0;
+            cursor: pointer;
+            position: relative;
+            transition: color 0.3s;
+            font-family: 'Barlow', sans-serif;
+        }
+
+        .tab-btn:hover {
+            color: var(--text-main);
+        }
+
+        .tab-btn.active {
+            color: var(--text-main);
+        }
+
+        .tab-btn.active::after {
+            content: '';
+            position: absolute;
+            bottom: -1px;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background-color: var(--accent-color);
+            border-radius: 3px 3px 0 0;
+            transition: background-color 1.5s ease;
+        }
+
+        .tab-count {
+            font-size: 12px;
+            background: #333;
+            padding: 2px 6px;
+            border-radius: 10px;
+            margin-left: 5px;
+            vertical-align: middle;
+        }
+
+        .tab-btn.active .tab-count {
+            background: var(--accent-color);
+            color: #000;
+            transition: background 1.5s ease;
+        }
+
+        /* === 內容區塊 === */
+        .content-section {
+            display: none;
+            animation: fadeIn 0.4s ease;
+        }
+
+        .content-section.active {
+            display: block;
         }
 
         /* === 歌曲列表 === */
-        .section-title {
-            font-size: 28px;
-            font-weight: 800;
-            margin-top: 50px;
-            margin-bottom: 20px;
-            color: var(--text-main);
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .section-title::before {
-            content: '';
-            display: block;
-            width: 6px;
-            height: 30px;
-            background-color: var(--accent-color);
-            border-radius: 3px;
-        }
-
         .date-header {
             width: 100%;
             margin-top: 25px;
@@ -306,6 +337,17 @@
             opacity: 1;
         }
 
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(5px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
         @media (max-width: 600px) {
             header {
                 padding: 0 15px;
@@ -349,11 +391,22 @@
             <div id="artistTags" class="artist-tags"></div>
         </div>
 
-        <div class="section-title">⭐ My Artists</div>
-        <div id="myArea"></div>
+        <div class="tabs" id="mainTabs">
+            <button class="tab-btn active" onclick="switchTab('my')">
+                My Artists <span id="myCount" class="tab-count">0</span>
+            </button>
+            <button class="tab-btn" onclick="switchTab('others')">
+                Daily Others <span id="othersCount" class="tab-count">0</span>
+            </button>
+        </div>
 
-        <div class="section-title" style="margin-top: 80px;">🌍 Other New Releases</div>
-        <div id="othersArea"></div>
+        <div id="mySection" class="content-section active">
+            <div id="myArea"></div>
+        </div>
+
+        <div id="othersSection" class="content-section">
+            <div id="othersArea"></div>
+        </div>
     </div>
 
     <script>
@@ -365,6 +418,7 @@
         }, 4000);
 
         let globalSongs = [];
+        let currentTab = 'my'; // 記錄目前在哪個分頁
 
         document.addEventListener('DOMContentLoaded', fetchData);
 
@@ -420,15 +474,62 @@
             window.scrollTo({ top: 0, behavior: 'smooth' }); // 捲動到頂部
         }
 
+        // 🔹 切換分頁邏輯
+        function switchTab(tabName) {
+            currentTab = tabName;
+            
+            // 更新按鈕樣式
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            if (tabName === 'my') document.querySelector('.tab-btn:nth-child(1)').classList.add('active');
+            else document.querySelector('.tab-btn:nth-child(2)').classList.add('active');
+
+            // 切換顯示區塊
+            document.querySelectorAll('.content-section').forEach(sec => sec.classList.remove('active'));
+            if (tabName === 'my') document.getElementById('mySection').classList.add('active');
+            else document.getElementById('othersSection').classList.add('active');
+        }
+
         function filterData() {
             const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            const isSearching = query.length > 0;
+
+            // 1. 篩選資料
             const filteredSongs = globalSongs.filter(song => {
                 const title = song.title ? song.title.toLowerCase() : "";
                 const artist = song.artist ? song.artist.toLowerCase() : "";
                 return title.includes(query) || artist.includes(query);
             });
-            renderGroup(filteredSongs.filter(s => s.is_tracked), 'myArea', 90);
-            renderGroup(filteredSongs.filter(s => !s.is_tracked), 'othersArea', 1);
+
+            const mySongs = filteredSongs.filter(s => s.is_tracked);
+            const otherSongs = filteredSongs.filter(s => !s.is_tracked);
+
+            // 2. 更新計數器
+            document.getElementById('myCount').innerText = mySongs.length;
+            document.getElementById('othersCount').innerText = otherSongs.length;
+
+            // 3. 渲染內容
+            renderGroup(mySongs, 'myArea', 90);
+            renderGroup(otherSongs, 'othersArea', 1);
+
+            // 4. 智慧搜尋模式
+            // 如果正在搜尋，強制顯示所有區塊 (讓搜尋結果一目了然)
+            // 如果沒搜尋，就恢復分頁模式
+            const mySec = document.getElementById('mySection');
+            const otherSec = document.getElementById('othersSection');
+            const tabsDiv = document.getElementById('mainTabs');
+
+            if (isSearching) {
+                mySec.classList.add('active');
+                otherSec.classList.add('active');
+                tabsDiv.style.display = 'none'; // 搜尋時隱藏 Tabs
+            } else {
+                tabsDiv.style.display = 'flex'; // 恢復 Tabs
+                // 恢復原本的 Tab 狀態
+                mySec.classList.remove('active');
+                otherSec.classList.remove('active');
+                if (currentTab === 'my') mySec.classList.add('active');
+                else otherSec.classList.add('active');
+            }
         }
 
         function renderGroup(songs, containerId, keepDays) {
@@ -440,8 +541,12 @@
             const activeSongs = songs.filter(s => new Date(s.found_at) > cutoffDate);
 
             if (activeSongs.length === 0) {
-                const msg = document.getElementById('searchInput').value ? "No matches found." : `No releases found in the last ${keepDays} days.`;
-                container.innerHTML = `<div class="status-msg">${msg}</div>`;
+                // 如果是搜尋模式，不需要顯示 No releases found，因為可能在另一區有結果
+                // 只有當真的是分頁模式下才顯示提示
+                const isSearching = document.getElementById('searchInput').value.length > 0;
+                if (!isSearching) {
+                    container.innerHTML = `<div class="status-msg">No releases in this section.</div>`;
+                }
                 return;
             }
 
