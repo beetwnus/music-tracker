@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-22 12:11:49",
+    "updated_at": "2025-12-22 17:43:01",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,126 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "toni rei",
+            "title": "toni rei",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/584/87071584_1766130702968_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113155866",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "음율",
+            "title": "내일 만날 약속을 하면서 오늘 이별을 말했다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/026/87071026_1766121090694_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113153245",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "주헌 (몬스타엑스)",
+            "title": "Push (Feat. 레이 (IVE))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/408/87071408_1766128298479_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113155177",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "임영민",
+            "title": "Merry Birthday",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/040/467/87040467_1766042073094_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113025396",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "박창근",
+            "title": "너와 나의 계절이야기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/070/705/87070705_1766112992175_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113151220",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "DJ ROOTS",
+            "title": "My dreams give me chills",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/842/87079842_1766367693744_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113191566",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "우디 (Woody)",
+            "title": "얄미운 사랑 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/067/021/87067021_1766129597640_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113134913",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "LNGSHOT",
+            "title": "Saucin'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/353/87071353_1766127114174_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113154833",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "마이노스 (MINOS) & 허클베리피 (Huckleberry P)",
+            "title": "종특 (The Born Identity)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/006/87071006_1766120494842_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113153167",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "그냥노창",
+            "title": "test for test",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/371/87071371_1766127394661_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113154957",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "손태진",
+            "title": "첫 번째 남자 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/740/87066740_1766129606575_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113133584",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "용환 (YONGHWAN)",
+            "title": "First Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/941/87066941_1766113393979_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113134593",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "노아주다 (noahjooda)",
+            "title": "돈 말고 너",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/820/87079820_1766365602442_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113191416",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "홀린 (HLIN)",
+            "title": "소실",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/337/87060337_1766122809228_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113105162",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "요요미",
+            "title": "난다요요미",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/067/953/87067953_1766364643087_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113138481",
+            "found_at": "2025-12-22 17:43",
+            "is_tracked": false
+        },
         {
             "artist": "A-1000",
             "title": "Synthetic Emotions",
