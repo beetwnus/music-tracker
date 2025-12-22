@@ -6,9 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Genie Tracker</title>
     <link rel="icon" type="image/png" href="static/icon.png">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&family=Open+Sans:wght@400;600;700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg-main: #121212;
@@ -172,7 +170,7 @@
             transform: translateY(-2px);
         }
 
-        /* === 🔹 新增：Tabs 分頁樣式 === */
+        /* === Tabs 分頁樣式 === */
         .tabs {
             display: flex;
             gap: 20px;
@@ -321,6 +319,30 @@
             text-overflow: ellipsis;
         }
 
+        /* === 🆕 新增：YouTube 按鈕樣式 === */
+        .action-btn {
+            display: block;
+            margin-top: 10px;
+            background-color: #282828;
+            color: #fff;
+            text-align: center;
+            padding: 8px 0;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            transition: all 0.2s;
+            cursor: pointer;
+            border: 1px solid #333;
+            width: 100%; /* 確保按鈕寬度填滿 */
+            box-sizing: border-box; /* 讓 padding 不會撐爆寬度 */
+        }
+        .action-btn:hover {
+            background-color: #ff0000;
+            border-color: #ff0000;
+            color: white;
+            box-shadow: 0 4px 10px rgba(255, 0, 0, 0.3);
+        }
+        
         .status-msg {
             text-align: center;
             padding: 40px;
@@ -565,11 +587,18 @@
                     currentGrid.className = 'grid-container';
                     container.appendChild(currentGrid);
                 }
+                // 🆕 修改：加入 YouTube 按鈕
                 currentGrid.innerHTML += `
                     <a href="${song.link}" target="_blank" class="card">
                         <div class="img-wrapper"><img src="${song.image}" onerror="this.src='https://via.placeholder.com/200?text=No+Cover'"></div>
                         <div class="song-title">${song.title}</div>
                         <div class="artist-name">${song.artist}</div>
+                        
+                        <object class="action-btn-obj" style="width:100%">
+                            <div class="action-btn" onclick="window.open('https://www.youtube.com/results?search_query=${encodeURIComponent(song.artist + ' ' + song.title)}', '_blank');">
+                                ▶️ Listen on YT
+                            </div>
+                        </object>
                     </a>`;
             });
         }
