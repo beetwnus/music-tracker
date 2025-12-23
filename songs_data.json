@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-23 12:07:11",
+    "updated_at": "2025-12-23 17:38:35",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,102 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "키츠요지 (kitsyojii)",
+            "title": "BREAK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/961/87079961_1766371601445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113192348",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "인성 (SF9)",
+            "title": "아이돌아이 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/932/87071932_1766135520674_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113157206",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤미래",
+            "title": "숨",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/444/87080444_1766387199900_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195017",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "효린",
+            "title": "Standing On The Edge",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/847/87080847_1766392303700_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113196585",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "김뮤지엄 (KIMMUSEUM)",
+            "title": "FOREVER FOR RIVER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/544/87080544_1766388741793_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195338",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "방용국",
+            "title": "nanana",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/210/87061210_1766046678611_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113109606",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "에일리 (Ailee)",
+            "title": "오늘도 빛나는 너에게 (베일드뮤지션 X 에일리(Ailee) with 오류동 햄스터)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/372/87071372_1766390734782_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113154985",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "어센트 (ASC2NT)",
+            "title": "Replay",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/044/953/87044953_1765519932709_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113044936",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "데카당",
+            "title": "일당백",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/058/87080058_1766377298260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113193232",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "정혜원 & 강시현",
+            "title": "Winter Story HA,NA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/981/87079981_1766373090584_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113192494",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "남규리",
+            "title": "December Dream",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/481/87080481_1766387819645_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195099",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "고스트클럽 (Ghvstclub)",
+            "title": "Boogie Nights",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/072/550/87072550_1766142690705_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113158885",
+            "found_at": "2025-12-23 17:38",
+            "is_tracked": false
+        },
         {
             "artist": "그을",
             "title": "내 꿈이었던 별들아",
