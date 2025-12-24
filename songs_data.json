@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-24 12:04:43",
+    "updated_at": "2025-12-24 17:36:12",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,102 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "범진",
+            "title": "집으로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/234/87083234_1766473899567_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204570",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍대광",
+            "title": "소원을 빌어봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/791/87079791_1766364700932_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113191288",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "성재",
+            "title": "그 겨울에 너를 만나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/080/87083080_1766469104445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203975",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "찬열 (CHANYEOL)",
+            "title": "처음부터 지금까지 (한류 시작 20th 프로젝트 Part.6)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/842/87085842_1766552794160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113214530",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Gwyn Dorado",
+            "title": "싱어게인4 - 무명가수전 Top 7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/244/87083244_1766474190177_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204604",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Option",
+            "title": "shawty",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/845/87079845_1766367703638_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113191565",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "유세윤",
+            "title": "나랑만 (Feat. KIND)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/789/87079789_1766364695372_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113191286",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "16",
+            "title": "Real tight, Real slow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/070/640/87070640_1766450955183_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113150991",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "디셈버 (December)",
+            "title": "기적이 머문 은영이에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/249/87083249_1766474494008_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204660",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "승은",
+            "title": "잘 지내야 해, 날 사랑한 만큼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/619/87080619_1766389327129_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195589",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "전현재 (JEON NOW)",
+            "title": "Dance",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/883/87052883_1766455974811_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075349",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "키츠요지 (kitsyojii)",
+            "title": "BREAK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/961/87079961_1766371601445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113192348",
+            "found_at": "2025-12-24 17:36",
+            "is_tracked": false
+        },
         {
             "artist": "The Quiett",
             "title": "The Quiett 'EBS SPACE 공감 Live'",
