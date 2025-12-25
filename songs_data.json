@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-25 12:07:15",
+    "updated_at": "2025-12-25 17:35:32",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,142 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "유라 (youra)",
+            "title": "1993년",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/461/87080461_1766388690377_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195065",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "NVM (Never Mind)",
+            "title": "SOLACE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/995/87079995_1766374290105_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113192705",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jimmy Paige",
+            "title": "WALK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/599/87082599_1766452611596_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202174",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "장민호",
+            "title": "좋은 시절 (好時節)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/589/87085589_1766543792352_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113213064",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "이명화",
+            "title": "통통통!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/081/202/87081202_1766542058759_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113198006",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "KYSB (김영석밴드)",
+            "title": "어떠한 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/070/732/87070732_1766450871495_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113151433",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "진호 (펜타곤)",
+            "title": "Luv 2 Much",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/590/87085590_1766543796478_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113213065",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "연시아",
+            "title": "누구나 헤어질 순 있지만",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/132/87083132_1766470615385_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204177",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "멜로소나 (MELOSONA)",
+            "title": "To my star",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/197/87071197_1766127025333_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113154051",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍대광",
+            "title": "소원을 빌어봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/791/87079791_1766364700932_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113191288",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "범진",
+            "title": "집으로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/234/87083234_1766473899567_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204570",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "성재",
+            "title": "그 겨울에 너를 만나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/080/87083080_1766469104445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203975",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "찬열 (CHANYEOL)",
+            "title": "처음부터 지금까지 (한류 시작 20th 프로젝트 Part.6)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/842/87085842_1766552794160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113214530",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "Gwyn Dorado",
+            "title": "싱어게인4 - 무명가수전 Top 7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/244/87083244_1766474190177_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204604",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "Option",
+            "title": "shawty",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/845/87079845_1766367703638_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113191565",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "유세윤",
+            "title": "나랑만 (Feat. KIND)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/079/789/87079789_1766364695372_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113191286",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "16",
+            "title": "Real tight, Real slow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/070/640/87070640_1766450955183_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113150991",
+            "found_at": "2025-12-25 17:35",
+            "is_tracked": false
+        },
         {
             "artist": "버벌진트 (Verbal Jint)",
             "title": "God's Plan",
