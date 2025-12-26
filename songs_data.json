@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-26 12:04:23",
+    "updated_at": "2025-12-26 17:35:11",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -122,6 +122,102 @@
         "woo!ah!"
     ],
     "songs": [
+        {
+            "artist": "쌍문동 아이들",
+            "title": "응답하라 1988 10주년 OST Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/695/87085695_1766546804393_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113213635",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "MANEHANA",
+            "title": "낙화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/215/87080215_1766381226444_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113193968",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "용용 (YongYong) & DJ Mii",
+            "title": "HERO GIRLS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/070/748/87070748_1766450932689_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113151553",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "V.O.S",
+            "title": "신촌을 못가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/848/87085848_1766553400290_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113214586",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "벨 (KISS OF LIFE)",
+            "title": "RIDE (베일드뮤지션 X 벨 (KISS OF LIFE) with 석촌동 끼쟁이)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/457/87071457_1766562748791_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113155497",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": true
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "At the End of Our Season",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/269/87053269_1766456003954_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113076649",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "단칸방 로맨스",
+            "title": "모형",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/130/87083130_1766470614631_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204175",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "사운드힐즈",
+            "title": "순간의 영원 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/160/87057160_1766394348702_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113093356",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "정가이 (와인루프)",
+            "title": "불꽃야구 OST Part. 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/721/87082721_1766456502274_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202707",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kei (케이)",
+            "title": "［ASTROCHILD IN THE LONELY PLANET］ Kei (케이) - Smile",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/891/87085891_1766565875653_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113214786",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "여규호",
+            "title": "친밀한 리플리 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/549/87080549_1766450880439_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195379",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "summercomesagain",
+            "title": "the skyline melts into the haze",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/436/87080436_1766457562374_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113194996",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": false
+        },
         {
             "artist": "MOONLIGHT (문라이트)",
             "title": "DFL",
