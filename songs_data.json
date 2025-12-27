@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-27 15:59:37",
+    "updated_at": "2025-12-27 17:32:23",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -146,6 +146,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "대니 구 & Jason Lee (제이슨 리)",
+            "title": "Winter Sky",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/646/87080646_1766389903420_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195748",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "안재우",
+            "title": "이별과 사랑 사이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/339/87080339_1766383908160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113194526",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "oftn (오픈)",
+            "title": "I Want You Too",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/762/87082762_1766457700668_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202883",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "성진환",
+            "title": "영원속에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/256/87086256_1766564498069_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113216044",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "GongGongGoo009",
+            "title": "호수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/076/87071076_1766456026730_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113153566",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "유리 (YURI)",
+            "title": "청개구리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/486/87083486_1766480506702_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113205689",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "승채린",
+            "title": "화려한 날들 OST Part.21",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/459/87083459_1766479627286_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113205530",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "로시 (Rothy)",
+            "title": "러브 미 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/686/87071686_1766563115820_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113156257",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": true
+        },
+        {
+            "artist": "나영",
+            "title": "고생길",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/309/87086309_1766567194112_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113216315",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "오예린밴드",
+            "title": "Falling In Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/131/87083131_1766542076534_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204179",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "장미",
+            "title": "4X4 PROJECT 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/062/110/87062110_1766390765373_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113114599",
+            "found_at": "2025-12-27 17:32",
+            "is_tracked": false
+        },
         {
             "artist": "쌍문동 아이들",
             "title": "응답하라 1988 10주년 OST Part 2",
