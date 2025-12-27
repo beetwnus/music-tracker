@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-27 16:04:42",
+    "updated_at": "2025-12-27 15:59:37",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -147,131 +147,11 @@
     ],
     "songs": [
         {
-            "artist": "LIT",
-            "title": "To be perfect",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/081/119/87081119_1766398292683_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113197632",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "정훈희",
-            "title": "모범택시3 OST Part.6",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/327/87080327_1766383890648_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113194506",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "태현",
-            "title": "체인지스트릿 (Change Street) Episode 2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/070/87083070_1766542073891_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203893",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "JOE CHO",
-            "title": "on & on",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/764/87082764_1766457707225_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202892",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "WOWSANS",
-            "title": "우리들의 칸타타 (Feat. 옥상달빛, 요조, 강아솔, 장들레, Luca minor, Sun the lily)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/790/87082790_1766541763678_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203023",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "kenessi",
-            "title": "Archive sub-zero",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/084/104/87084104_1766563110508_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113208049",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "김용빈",
-            "title": "금타는 금요일 PART1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/457/87086457_1766571097905_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113216844",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "김토라 (Tora)",
-            "title": "떠나줄게",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/727/87083727_1766544059220_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113206553",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "단월",
-            "title": "i miss u",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/665/87085665_1766545905086_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113213390",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "은우",
-            "title": "청춘",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/841/87071841_1766730423252_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113156854",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "ampoff",
-            "title": "room 04",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/727/87082727_1766486398331_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202759",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "rooftop patio (루프탑파티오)",
-            "title": "나이테",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/907/87080907_1766569855297_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113196730",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "Sunset On The Bridge",
-            "title": "술들어간다 (Acoustic Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/062/808/87062808_1766573827124_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113118403",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "세빈 (Sebin)",
-            "title": "&I",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/086/87083086_1766469390177_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203994",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
-            "artist": "혜성",
-            "title": "깃발",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/538/87082538_1766541954232_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113201943",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": false
-        },
-        {
             "artist": "쌍문동 아이들",
             "title": "응답하라 1988 10주년 OST Part 2",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/695/87085695_1766546804393_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113213635",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -279,7 +159,7 @@
             "title": "낙화",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/215/87080215_1766381226444_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113193968",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -287,7 +167,7 @@
             "title": "HERO GIRLS",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/070/748/87070748_1766450932689_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113151553",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -295,23 +175,15 @@
             "title": "신촌을 못가",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/848/87085848_1766553400290_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113214586",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
-        },
-        {
-            "artist": "벨 (KISS OF LIFE)",
-            "title": "RIDE (베일드뮤지션 X 벨 (KISS OF LIFE) with 석촌동 끼쟁이)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/457/87071457_1766562748791_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113155497",
-            "found_at": "2025-12-27 16:04",
-            "is_tracked": true
         },
         {
             "artist": "니브 (NIve)",
             "title": "At the End of Our Season",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/053/269/87053269_1766456003954_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113076649",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -319,7 +191,7 @@
             "title": "모형",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/130/87083130_1766470614631_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204175",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -327,7 +199,7 @@
             "title": "순간의 영원 OST",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/160/87057160_1766394348702_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113093356",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -335,7 +207,7 @@
             "title": "불꽃야구 OST Part. 5",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/721/87082721_1766456502274_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202707",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -343,7 +215,7 @@
             "title": "［ASTROCHILD IN THE LONELY PLANET］ Kei (케이) - Smile",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/891/87085891_1766565875653_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113214786",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -351,7 +223,7 @@
             "title": "친밀한 리플리 OST Part.4",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/549/87080549_1766450880439_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195379",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -359,7 +231,7 @@
             "title": "the skyline melts into the haze",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/436/87080436_1766457562374_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113194996",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -367,7 +239,7 @@
             "title": "DFL",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/072/87083072_1766468846643_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203894",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -375,7 +247,7 @@
             "title": "셋째달",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/163/87080163_1766380297351_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113193715",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
         },
         {
@@ -383,8 +255,176 @@
             "title": "Without",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/113/87083113_1766470298717_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204096",
-            "found_at": "2025-12-27 16:04",
+            "found_at": "2025-12-27 15:59",
             "is_tracked": false
+        },
+        {
+            "artist": "LIT",
+            "title": "To be perfect",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/081/119/87081119_1766398292683_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113197632",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "정훈희",
+            "title": "모범택시3 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/327/87080327_1766383890648_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113194506",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "태현",
+            "title": "체인지스트릿 (Change Street) Episode 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/070/87083070_1766542073891_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203893",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "JOE CHO",
+            "title": "on & on",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/764/87082764_1766457707225_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202892",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOWSANS",
+            "title": "우리들의 칸타타 (Feat. 옥상달빛, 요조, 강아솔, 장들레, Luca minor, Sun the lily)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/790/87082790_1766541763678_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203023",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "kenessi",
+            "title": "Archive sub-zero",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/084/104/87084104_1766563110508_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113208049",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/457/87086457_1766571097905_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113216844",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "김토라 (Tora)",
+            "title": "떠나줄게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/727/87083727_1766544059220_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113206553",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "단월",
+            "title": "i miss u",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/665/87085665_1766545905086_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113213390",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "은우",
+            "title": "청춘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/841/87071841_1766730423252_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113156854",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "ampoff",
+            "title": "room 04",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/727/87082727_1766486398331_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202759",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "rooftop patio (루프탑파티오)",
+            "title": "나이테",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/907/87080907_1766569855297_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113196730",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sunset On The Bridge",
+            "title": "술들어간다 (Acoustic Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/062/808/87062808_1766573827124_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113118403",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "세빈 (Sebin)",
+            "title": "&I",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/086/87083086_1766469390177_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203994",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "혜성",
+            "title": "깃발",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/538/87082538_1766541954232_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113201943",
+            "found_at": "2025-12-27 12:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "벨 (KISS OF LIFE)",
+            "title": "RIDE (베일드뮤지션 X 벨 (KISS OF LIFE) with 석촌동 끼쟁이)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/457/87071457_1766562748791_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113155497",
+            "found_at": "2025-12-26 17:35",
+            "is_tracked": true
+        },
+        {
+            "artist": "SECRET NUMBER (시크릿넘버)",
+            "title": "Bitter Sweet",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/304/87071304_1766126511379_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113154682",
+            "found_at": "2025-12-22 12:11",
+            "is_tracked": true
+        },
+        {
+            "artist": "아일릿 (ILLIT)",
+            "title": "NOT CUTE ANYMORE (Holiday Remixes)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/066/479/87066479_1766035905292_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113131955",
+            "found_at": "2025-12-19 17:36",
+            "is_tracked": true
+        },
+        {
+            "artist": "Hearts2Hearts (하츠투하츠) & 0to & ScreaM Records",
+            "title": "ScreaM Rookies : The Chase (Remixes)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/057/515/87057515_1765876071697_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113094642",
+            "found_at": "2025-12-17 17:41",
+            "is_tracked": true
+        },
+        {
+            "artist": "케이시 (Kassy)",
+            "title": "Even If the World Ends: A Single Message",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/055/341/87055341_1765840293355_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113084901",
+            "found_at": "2025-12-17 12:01",
+            "is_tracked": true
+        },
+        {
+            "artist": "아일릿 (ILLIT)",
+            "title": "ALL FOR YOU, 2027",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/045/371/87045371_1765789448387_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113046629",
+            "found_at": "2025-12-16 12:20",
+            "is_tracked": true
         }
     ]
 }
