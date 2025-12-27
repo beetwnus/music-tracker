@@ -32,6 +32,7 @@ MY_ARTISTS = [
     "VIVIZ", "Wendy", "Wheein", "WINTER", "WJSN",
     "Woo Yerin", "woo!ah!", "Yein", "YENA", "Yerin",
     "YooA", "Younha", "Yuju", "Yunsae", "Yuqi",
+
     "ado", "Ai Tomioka", "Aimer", "aimyon", "Aooo",
     "ATARAYO", "BAND-MAID", "chilldspot", "Chilli Beans",
     "Faulieu", "LiSA", "Majiko", "MINAMI", "NEK!", "ReoNa",
@@ -62,11 +63,22 @@ def load_existing_data():
     return []
 
 def is_artist_match(target, text):
+    """
+    判斷 text 中是否包含目標藝人 target。
+    修正邏輯：只要 target 是純英數字（不論長度），都強制使用單字邊界檢查，
+    避免如 'HANA' 誤判 'MANEHANA' 的情況。
+    """
     target = target.lower()
     text = text.lower()
-    if len(target) <= 3 and re.match(r'^[a-z0-9]+$', target):
+    
+    # 如果 target 只包含英文字母或數字 (例如 "HANA", "QWER", "Lisa")
+    if re.match(r'^[a-z0-9]+$', target):
+        # 使用正規表達式檢查前後邊界
+        # (?:^|[^a-z0-9]) 表示前面必須是「字串開頭」或「非英數字元」
         pattern = r'(?:^|[^a-z0-9])' + re.escape(target) + r'(?:$|[^a-z0-9])'
         return re.search(pattern, text) is not None
+        
+    # 如果名字包含特殊符號或空白 (例如 "LE SSERAFIM")，則使用一般的包含檢查
     return target in text
 
 # ==========================================
@@ -98,6 +110,8 @@ def scrape_job():
                 for target in MY_ARTISTS:
                     if is_artist_match(target, original_artist_name):
                         is_tracked = True
+                        # 找到匹配的藝人名稱後，可以選擇是否在這裡break，
+                        # 或者讓它繼續跑完以防有多個關鍵字匹配 (視需求而定)
                         break
                 
                 link_id = song['songid']
@@ -106,6 +120,7 @@ def scrape_job():
                 if link in existing_links: continue
 
                 display_artist_name = original_artist_name
+                # 如果有自定義映射名稱
                 if is_tracked:
                     for key_word, custom_name in NAME_MAPPING.items():
                         if is_artist_match(key_word, original_artist_name):
@@ -161,10 +176,10 @@ def scrape_job():
         except ValueError:
             final_list.append(song)
 
-    # 3. 存檔 (✅ 修改點：加入 tracked_artists)
+    # 3. 存檔
     data_to_save = {
         "updated_at": get_taiwan_time().strftime("%Y-%m-%d %H:%M:%S"),
-        "tracked_artists": sorted(MY_ARTISTS), # 自動按字母排序
+        "tracked_artists": sorted(MY_ARTISTS), 
         "songs": final_list
     }
     
