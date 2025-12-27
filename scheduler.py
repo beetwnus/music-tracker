@@ -31,7 +31,14 @@ MY_ARTISTS = [
     "TRI.BE", "tripleS", "TWICE", "TZUYU", "Umji",
     "VIVIZ", "Wendy", "Wheein", "WINTER", "WJSN",
     "Woo Yerin", "woo!ah!", "Yein", "YENA", "Yerin",
-    "YooA", "Younha", "Yuju", "Yunsae", "Yuqi"
+    "YooA", "Younha", "Yuju", "Yunsae", "Yuqi",
+
+
+    "ado", "Ai Tomioka", "Aimer", "aimyon", "Aooo",
+    "ATARAYO", "BAND-MAID", "chilldspot", "Chilli Beans",
+    "Faulieu", "LiSA", "Majiko", "MINAMI", "NEK!", "ReoNa",
+    "TRiDENT", "tuki.", "yama", "YOASOBI", "Yuika",
+    "ZUTOMAYO", "ねぎ塩豚丼", "HANA"
 ]
 
 DATA_FILE = "songs_data.json"
