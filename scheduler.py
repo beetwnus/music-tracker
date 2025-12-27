@@ -32,8 +32,6 @@ MY_ARTISTS = [
     "VIVIZ", "Wendy", "Wheein", "WINTER", "WJSN",
     "Woo Yerin", "woo!ah!", "Yein", "YENA", "Yerin",
     "YooA", "Younha", "Yuju", "Yunsae", "Yuqi",
-
-
     "ado", "Ai Tomioka", "Aimer", "aimyon", "Aooo",
     "ATARAYO", "BAND-MAID", "chilldspot", "Chilli Beans",
     "Faulieu", "LiSA", "Majiko", "MINAMI", "NEK!", "ReoNa",
