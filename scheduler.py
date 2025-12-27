@@ -38,7 +38,7 @@ MY_ARTISTS = [
     "ATARAYO", "BAND-MAID", "chilldspot", "Chilli Beans",
     "Faulieu", "LiSA", "Majiko", "MINAMI", "NEK!", "ReoNa",
     "TRiDENT", "tuki.", "yama", "YOASOBI", "Yuika",
-    "ZUTOMAYO", "ねぎ塩豚丼", "HANA"
+    "ZUTOMAYO", "ねぎ塩豚丼", "HANA", "Yorushika"
 ]
 
 DATA_FILE = "songs_data.json"
