@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-28 12:15:40",
+    "updated_at": "2025-12-28 17:32:30",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -146,6 +146,134 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "SUDI",
+            "title": "시간을 돌려",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/081/245/87081245_1766401622471_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113198116",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "순순희",
+            "title": "내 첫사랑이자 마지막 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/440/87083440_1766478691354_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113205461",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "The One (더원)",
+            "title": "사랑 참",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/257/87086257_1766564501101_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113216045",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "진민호 & 투앤비 (2NB) & 차가을",
+            "title": "행복해야 돼, 안녕",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/660/87085660_1766545892367_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113213378",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "Lilas",
+            "title": "Lilas X 경도를 기다리며",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/975/87080975_1766563133356_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113197192",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "양홍원",
+            "title": "소나기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/317/87086317_1766567492915_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113216336",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "양파",
+            "title": "프로보노 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/089/781/87089781_1766718992223_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113228994",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "소이에 (soye)",
+            "title": "Mariposa (Orchestra Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/763/87082763_1766457704127_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202884",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "희주에요",
+            "title": "화려한 날들 OST Part.22",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/463/87083463_1766479892491_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113205535",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "HOON",
+            "title": "맨날 차던 거",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/815/87082815_1766459791010_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203100",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "전인혁",
+            "title": "사랑한 만큼 아프겠죠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/081/246/87081246_1766542084026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113198144",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "대니 구 & Jason Lee (제이슨 리)",
+            "title": "Winter Sky",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/646/87080646_1766389903420_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195748",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "안재우",
+            "title": "이별과 사랑 사이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/339/87080339_1766383908160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113194526",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "oftn (오픈)",
+            "title": "I Want You Too",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/762/87082762_1766457700668_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202883",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "성진환",
+            "title": "영원속에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/256/87086256_1766564498069_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113216044",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "GongGongGoo009",
+            "title": "호수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/076/87071076_1766456026730_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113153566",
+            "found_at": "2025-12-28 17:32",
+            "is_tracked": false
+        },
         {
             "artist": "김시원",
             "title": "Touchdown",
