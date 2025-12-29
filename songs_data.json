@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-29 12:18:08",
+    "updated_at": "2025-12-29 17:43:46",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -146,6 +146,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "JENUS & 로겸",
+            "title": "Lipbalm",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/407/87083407_1766481090679_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113205402",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "FIL (필)",
+            "title": "아이돌아이 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/647/87080647_1766389909813_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195749",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "SAY MY NAME (세이마이네임)",
+            "title": "&Our Vibe",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/629/87080629_1766541994323_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195665",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "PLAVE",
+            "title": "이 밤을 빌려 말해요 (오늘 밤, 세계에서 이 사랑이 사라진다 해도 X PLAVE)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/096/321/87096321_1766970697205_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113251268",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈센트블루",
+            "title": "Jane",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/127/87083127_1766470606175_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204170",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "다린",
+            "title": "깨어나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/145/87071145_1766456047675_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113153849",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "배그나",
+            "title": "가슴만 알죠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/568/87085568_1766574285193_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113213005",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "김민울",
+            "title": "혼자, 이별",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/948/87085948_1766556427153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113215046",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Minit",
+            "title": "#2025 : YOU",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/041/87083041_1766468192636_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203783",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "박서진",
+            "title": "첫눈에 반해버린 사람아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/565/87086565_1766573815833_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113217331",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "이준호",
+            "title": "결혼해줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/081/009/87081009_1766568380908_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113197306",
+            "found_at": "2025-12-29 17:43",
+            "is_tracked": false
+        },
         {
             "artist": "PLANET C : HOME RACE",
             "title": "PLANET C : HOME RACE",
