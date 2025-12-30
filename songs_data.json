@@ -1,5 +1,5 @@
 {
-    "updated_at": "2025-12-30 12:08:35",
+    "updated_at": "2025-12-30 17:38:31",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -146,6 +146,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Ruru (루루)",
+            "title": "악당",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/089/793/87089793_1766719594238_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113229087",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "1MILLION",
+            "title": "AT US",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/318/87086318_1766567501206_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113216338",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "이솔로몬",
+            "title": "떠나면 남는 계절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/265/87097265_1766996558467_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113256275",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "허각",
+            "title": "날 위한 이별 (베일드뮤지션 X 허각 with 마두동 삼대장)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/089/926/87089926_1766742598463_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113229470",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "겸 (GYE0M)",
+            "title": "푸름과 꿈과 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/999/87060999_1766638798313_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113108211",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "하우스 룰즈 (House Rulez)",
+            "title": "LOFI Bespoke Serenity",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/085/937/87085937_1766556395865_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113215002",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "인스턴트 로맨틱 플로어 (Instant Romantic Floor)",
+            "title": "나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/730/87080730_1766575512952_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113196166",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "YLN Foreign",
+            "title": "El Capo (Feat. IKASÉ)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/194/87083194_1766987265700_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113204424",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하예",
+            "title": "바라던 이별은 마음에 드나요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/664/87082664_1766568389154_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113202462",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "정진운",
+            "title": "Own You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/175/87097175_1766995654493_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113255966",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "JENUS & 로겸",
+            "title": "Lipbalm",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/083/407/87083407_1766481090679_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113205402",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "FIL (필)",
+            "title": "아이돌아이 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/647/87080647_1766389909813_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195749",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "SAY MY NAME (세이마이네임)",
+            "title": "&Our Vibe",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/629/87080629_1766541994323_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113195665",
+            "found_at": "2025-12-30 17:38",
+            "is_tracked": false
+        },
         {
             "artist": "Touch the Sky",
             "title": "고장났어",
