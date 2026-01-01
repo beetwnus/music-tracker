@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-01 12:17:31",
+    "updated_at": "2026-01-01 17:38:08",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -146,6 +146,150 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "TOIL & 최성 & Jayci yucca (제이씨 유카)",
+            "title": "고스트시티",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/185/87097185_1766995691892_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113255931",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "CNBLUE (씨엔블루)",
+            "title": "그러나 꽃이었다 (Still, a Flower)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/771/87099771_1767164523791_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264906",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "마크툽 (Maktub)",
+            "title": "시작의 아이 ∞ ハジマリのコ (Starting With You) : 무한성(聲)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/837/87052837_1766575573524_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113075090",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jenipril",
+            "title": "Melrose Avenue",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/096/782/87096782_1766986891851_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113253982",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "안예슬",
+            "title": "매일 울다가 또 울다가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/285/87099285_1767081175023_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113263016",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "양하진",
+            "title": "Happy New Year",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/751/87099751_1767077194354_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264871",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "김찬호",
+            "title": "히든 보이스 ep.4 모르는 사이가 되자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/959/87099959_1767081702648_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113265570",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "헤이즈 (Heize)",
+            "title": "Even if",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/096/860/87096860_1766988698650_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113254373",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "헤미스피어스 (Hemispheres)",
+            "title": "마침표",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/422/87097422_1767001944798_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113257178",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "BIG Naughty (서동현)",
+            "title": "무리했었던 약속들",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/976/87099976_1767081730479_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113265614",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤종신",
+            "title": "2025 월간 윤종신 12월호",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/173/87097173_1766995646560_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113255967",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "SOLE (쏠) & THAMA",
+            "title": "Close to you",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/096/539/87096539_1766977891675_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113252487",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "릴보이 (lIlBOI) & 테이크원 (TAKEWON)",
+            "title": "Good Time For The Team Remastered",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/235/87099235_1767063090631_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113262858",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "모브닝 (MOVNING)",
+            "title": "눈꽃을 닮은 너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/171/87086171_1766562700635_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113215769",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "적재",
+            "title": "만약에 우리 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/552/87097552_1767082067828_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113257481",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "이루리",
+            "title": "너는 나의 미친개가 돼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/061/363/87061363_1766638827549_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113110576",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "김재민(Kimfunny)",
+            "title": "싱어게인4 - 무명가수전 Top 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/912/87099912_1767080844010_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113265478",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "Keepro & SUZNN",
+            "title": "Do something",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/096/523/87096523_1766976999463_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113252379",
+            "found_at": "2026-01-01 17:38",
+            "is_tracked": false
+        },
         {
             "artist": "보이브라운 (Boi Brown) & 이세빈",
             "title": "NEW",
