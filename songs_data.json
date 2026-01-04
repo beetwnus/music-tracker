@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-04 12:18:59",
+    "updated_at": "2026-01-04 17:32:01",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,174 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "하성운",
+            "title": "은애하는 도적님아 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/100/064/87100064_1767083236016_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113266128",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "JINSIL",
+            "title": "lost in you (Feat. Dok2)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/584/87102584_1767150411073_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113274918",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "권진아",
+            "title": "경도를 기다리며 Vol.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/747/87099747_1767086607551_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264818",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "에이블 (Able)",
+            "title": "My Way (에이블(Able) X Urban City)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/089/524/87089524_1766710592697_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113228037",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "김뽐므",
+            "title": "미련한 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/103/306/87103306_1767172890858_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113278208",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "남종",
+            "title": "프로보노 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/296/87097296_1766997111748_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113256452",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "박광선",
+            "title": "화려한 날들 OST Part.23",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/208/87099208_1767062193500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113262655",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "리하츠 (Re:Hearts)",
+            "title": "Persona",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/635/87099635_1767073890870_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264176",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "CLOSE YOUR EYES (클로즈 유어 아이즈)",
+            "title": "판사 이한영 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/096/878/87096878_1766989299455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113254478",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "경서",
+            "title": "러브 미 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/542/87099542_1767083938384_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113263891",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "Placebo Junkies",
+            "title": "강원도 (Feat. 잠비노 (Jambino))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/103/289/87103289_1767171697218_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113278109",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "blueberryclub",
+            "title": "blueberryclub",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/613/87097613_1767006701434_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113257592",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "KIRI (키리)",
+            "title": "BREATH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/830/87080830_1766575584849_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113196550",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "이민정",
+            "title": "Believe Me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/103/307/87103307_1767172895575_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113278209",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "JSK",
+            "title": "HANASHI",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/090/602/87090602_1766989715039_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113232231",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "은서 (eunseo)",
+            "title": "DROP",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/925/87099925_1767161140911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113265489",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "xeom boi",
+            "title": "Day 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/963/87080963_1766394720734_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113197135",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "태현",
+            "title": "체인지스트릿 (Change Street) Episode 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/188/87099188_1767080470911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113262612",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/103/308/87103308_1767172900825_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113278211",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "이소 (E.SO) & ISHA (이샤)",
+            "title": "Between You and I",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/723/87099723_1767336393233_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264601",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "찰리빈웍스",
+            "title": "서로 사랑하는 마음",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/090/033/87090033_1766984589105_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113229889",
+            "found_at": "2026-01-04 17:32",
+            "is_tracked": false
+        },
         {
             "artist": "두이",
             "title": "따뜻해",
