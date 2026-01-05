@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-05 12:34:02",
+    "updated_at": "2026-01-05 17:47:11",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,150 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Apink (에이핑크)",
+            "title": "RE : LOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/106/660/87106660_1767331899048_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113296075",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": true
+        },
+        {
+            "artist": "주헌 (몬스타엑스)",
+            "title": "光 (INSANITY)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/408/87071408_1767338721828_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113296761",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "하성운",
+            "title": "Tell The World",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/508/87102508_1767149382158_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113274649",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "조현아 (어반자카파) & 권순일 (어반자카파)",
+            "title": "아이돌아이 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/100/254/87100254_1767087094618_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113266790",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "KURO",
+            "title": "계란말이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/090/576/87090576_1767080534482_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113232152",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "H1-KEY (하이키)",
+            "title": "세상은 영화 같지 않더라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/626/87102626_1767151616019_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113275147",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": true
+        },
+        {
+            "artist": "idntt (아이덴티티)",
+            "title": "＜yesweare＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/106/896/87106896_1767339713835_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113297483",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "HD BL4CK",
+            "title": "DREAMS TRILOGY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/086/748/87086748_1767336479331_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113218004",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "하성운",
+            "title": "은애하는 도적님아 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/100/064/87100064_1767083236016_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113266128",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "JINSIL",
+            "title": "lost in you (Feat. Dok2)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/584/87102584_1767150411073_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113274918",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "권진아",
+            "title": "경도를 기다리며 Vol.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/747/87099747_1767086607551_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264818",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "에이블 (Able)",
+            "title": "My Way (에이블(Able) X Urban City)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/089/524/87089524_1766710592697_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113228037",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "김뽐므",
+            "title": "미련한 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/103/306/87103306_1767172890858_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113278208",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "남종",
+            "title": "프로보노 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/097/296/87097296_1766997111748_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113256452",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "박광선",
+            "title": "화려한 날들 OST Part.23",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/208/87099208_1767062193500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113262655",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "두이",
+            "title": "따뜻해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/761/87099761_1767077499779_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264884",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "박티티 (T.T)",
+            "title": "만날 수 없는 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/261/87102261_1767145938300_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113272983",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "태리 (Terry)",
+            "title": "사랑은 내겐 아직 어려운가봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/100/092/87100092_1767336423987_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113266169",
+            "found_at": "2026-01-05 17:47",
+            "is_tracked": false
+        },
         {
             "artist": "ROSESIA (로즈시아) & StoneSoWavy!",
             "title": "Sleep well, my love",
