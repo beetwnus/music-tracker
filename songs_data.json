@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-06 12:09:18",
+    "updated_at": "2026-01-06 17:39:54",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "미연 (MIYEON)",
+            "title": "스프링 피버 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/106/990/87106990_1767590547856_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113298063",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": true
+        },
+        {
+            "artist": "리아 (ITZY)",
+            "title": "아이돌아이 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/106/338/87106338_1767322291074_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113294049",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": true
+        },
+        {
+            "artist": "폴킴",
+            "title": "Dream (베일드뮤지션 X 폴킴 with 감일동 솜사탕)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/110/579/87110579_1767596806256_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113319505",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "임재범",
+            "title": "Life is a Drama Prelude3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/109/407/87109407_1767608636302_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113314137",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "디핵 (D-Hack)",
+            "title": "D-SEKAI 1.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/110/543/87110543_1767578802215_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113319314",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "이예준 & 자정",
+            "title": "미친 소리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/111/242/87111242_1767595290714_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113321941",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "재한 (OMEGA X) & 한겸 (OMEGA X)",
+            "title": "드라마 '빌런즈' 삽입곡 - We Got a Fire",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/882/87102882_1767160592523_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113276491",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "진호 (펜타곤)",
+            "title": "보늬밤",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/111/245/87111245_1767595304047_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113321963",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "Risso (리소)",
+            "title": "BAD",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/090/626/87090626_1767080720562_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113232296",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "리",
+            "title": "달빛 아래 너와 나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/110/932/87110932_1767588726359_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113320865",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "Luckyca7",
+            "title": "platform",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/080/154/87080154_1766542118245_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113193705",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "색채 (SAEKCHAE)",
+            "title": "너에게 잘 보이려고 기타를 멘 건 아니야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/106/342/87106342_1767581995409_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113294077",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "조현아 (어반자카파) & 권순일 (어반자카파)",
+            "title": "아이돌아이 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/100/254/87100254_1767087094618_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113266790",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "주헌 (몬스타엑스)",
+            "title": "光 (INSANITY)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/408/87071408_1767338721828_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113296761",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "하성운",
+            "title": "Tell The World",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/508/87102508_1767149382158_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113274649",
+            "found_at": "2026-01-06 17:39",
+            "is_tracked": false
+        },
         {
             "artist": "gonjang",
             "title": "honey i'm home!",
