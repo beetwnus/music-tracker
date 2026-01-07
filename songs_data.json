@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-07 12:09:54",
+    "updated_at": "2026-01-07 17:41:47",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "츄 (CHUU)",
+            "title": "XO, My Cyberlove",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/653/87060653_1767676647864_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113106607",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "원필 (DAY6)",
+            "title": "Wish",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/106/868/87106868_1767338814793_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113297324",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "CNBLUE (씨엔블루)",
+            "title": "3LOGY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/771/87099771_1767695061302_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264907",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "바다 (BADA)",
+            "title": "소란스런 이별",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/557/87099557_1767582007695_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113263949",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "신수현",
+            "title": "Gray.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/300/87114300_1767686383584_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113333180",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "KANGHYUK",
+            "title": "*^^K - MIXTAPE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/110/676/87110676_1767664129585_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113319846",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하예",
+            "title": "LIE (2026 ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/609/87102609_1767685889935_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113275056",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "wizu",
+            "title": "Disconnected",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/111/697/87111697_1767679350946_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113323690",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "피싱걸스",
+            "title": "승민씨를 찾습니다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/508/87114508_1767685635587_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113334103",
+            "found_at": "2026-01-07 17:41",
+            "is_tracked": false
+        },
         {
             "artist": "NCT WISH",
             "title": "위시캣 매직카드 OST - Wishing Star",
