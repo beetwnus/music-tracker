@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-08 12:09:28",
+    "updated_at": "2026-01-08 17:41:55",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "나상현씨밴드",
+            "title": "낙원",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/111/149/87111149_1767593501569_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113321581",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "DK (디셈버)",
+            "title": "RETURN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/111/227/87111227_1767594729387_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113321879",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "적재",
+            "title": "낭만, 그 밤 (오늘 밤, 세계에서 이 사랑이 사라진다 해도 X 적재)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/249/87118249_1767768411112_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346993",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "신용재 (2F)",
+            "title": "첫눈처럼 너에게 가겠다 (베일드뮤지션 X 신용재 (2F) with 수영동 써리원)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/113/873/87113873_1767766648542_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113331121",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "D.Ark (디아크)",
+            "title": "1393",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/564/87114564_1767687425356_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113334346",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "BXB",
+            "title": "드라마 '빌런즈' 삽입곡 - Just Come and Go",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/904/87102904_1767160907229_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113276560",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "이십사일",
+            "title": "행방불명",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/217/87114217_1767679899938_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113332886",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "김서현",
+            "title": "머리가 아파",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/482/87118482_1767771427557_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113347835",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "IRI",
+            "title": "Waste Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/110/680/87110680_1767691160550_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113319854",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kinn (킨)",
+            "title": "navigation",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/199/87114199_1767747239603_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113332849",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "LATENCY (레이턴시)",
+            "title": "사랑이었는데",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/240/87118240_1767768103838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346902",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": true
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "사랑한 만큼 아파진다는 말",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/116/650/87116650_1767752561726_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113341217",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "츄 (CHUU)",
+            "title": "XO, My Cyberlove",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/060/653/87060653_1767676647864_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113106607",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "원필 (DAY6)",
+            "title": "Wish",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/106/868/87106868_1767338814793_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113297324",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "CNBLUE (씨엔블루)",
+            "title": "3LOGY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/099/771/87099771_1767695061302_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113264907",
+            "found_at": "2026-01-08 17:41",
+            "is_tracked": false
+        },
         {
             "artist": "민수",
             "title": "환승연애4 OST Part 10",
