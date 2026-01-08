@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-08 17:41:55",
+    "updated_at": "2026-01-08 23:41:31",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -65,12 +65,12 @@
         "Kim Sejeong",
         "Kwon Eun Bi",
         "KyoungSeo",
+        "LATENCY",
         "LE SSERAFIM",
         "LEE CHAE YEON",
         "LEE HI",
         "LIGHTSUM",
         "LIMELIGHT",
-        "Latency",
         "LiSA",
         "Lim Kim",
         "Lisa",
@@ -148,6 +148,14 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "The Kid LAROI",
+            "title": "BEFORE I FORGET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/940/87122940_1767864137979_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113362293",
+            "found_at": "2026-01-08 23:41",
+            "is_tracked": false
+        },
         {
             "artist": "나상현씨밴드",
             "title": "낙원",
