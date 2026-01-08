@@ -31,7 +31,7 @@ MY_ARTISTS = [
     "TRI.BE", "tripleS", "TWICE", "TZUYU", "Umji",
     "VIVIZ", "Wendy", "Wheein", "WINTER", "WJSN",
     "Woo Yerin", "woo!ah!", "Yein", "YENA", "Yerin",
-    "YooA", "Younha", "Yuju", "Yunsae", "Yuqi", "Latency",
+    "YooA", "Younha", "Yuju", "Yunsae", "Yuqi", "LATENCY",
     "BIBI",
 
     "ado", "Ai Tomioka", "Aimer", "aimyon", "Aooo",
