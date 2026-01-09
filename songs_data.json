@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-09 12:09:35",
+    "updated_at": "2026-01-09 17:42:06",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "ZEROBASEONE (제로베이스원)",
+            "title": "Running to Future",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/121/584/87121584_1767838330656_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113357432",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "Bruno Mars",
+            "title": "I Just Might",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/492/87125492_1767934962854_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113370955",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "루피 (Loopy)",
+            "title": "SEOUL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/247/87118247_1767768393503_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346985",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍중 (ATEEZ) & 성화 (ATEEZ) & 윤호 (ATEEZ) & 우영 (ATEEZ) & 씰룩 (Sealook)",
+            "title": "씰룩(SEALOOK)2 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/367/87122367_1767935064474_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113360385",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "하데스(HADES)",
+            "title": "두번째 지구",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/504/87118504_1767771739582_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113347863",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "민경훈 (버즈)",
+            "title": "죄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/354/87122354_1767854206288_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113360300",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "여은",
+            "title": "넌 알고 있을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/828/87114828_1767766231846_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113335620",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "Khakii (카키)",
+            "title": "Wake your ass up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/093/87118093_1767765828476_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346231",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "The Kid LAROI",
+            "title": "BEFORE I FORGET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/940/87122940_1767864137979_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113362297",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "나상현씨밴드",
+            "title": "낙원",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/111/149/87111149_1767593501569_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113321581",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "DK (디셈버)",
+            "title": "RETURN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/111/227/87111227_1767594729387_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113321879",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "적재",
+            "title": "낭만, 그 밤 (오늘 밤, 세계에서 이 사랑이 사라진다 해도 X 적재)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/249/87118249_1767768411112_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346993",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "신용재 (2F)",
+            "title": "첫눈처럼 너에게 가겠다 (베일드뮤지션 X 신용재 (2F) with 수영동 써리원)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/113/873/87113873_1767766648542_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113331121",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "D.Ark (디아크)",
+            "title": "1393",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/564/87114564_1767687425356_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113334346",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "BXB",
+            "title": "드라마 '빌런즈' 삽입곡 - Just Come and Go",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/102/904/87102904_1767160907229_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113276560",
+            "found_at": "2026-01-09 17:42",
+            "is_tracked": false
+        },
         {
             "artist": "LIM",
             "title": "isolated",
