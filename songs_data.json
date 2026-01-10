@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-10 12:03:59",
+    "updated_at": "2026-01-10 17:32:41",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "황세현 (h3hyeon)",
+            "title": "이름을 정하지 못해서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/210/87118210_1767767490029_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346669",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "방쏭",
+            "title": "하늘만큼 땅만큼 (Feat. 탑현)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/121/583/87121583_1767838324089_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113357430",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "소향",
+            "title": "My Little New Diary. Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/153/87118153_1767934301298_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346495",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "오왠 (O.WHEN)",
+            "title": "러브 미 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/368/87122368_1767940877405_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113360389",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "헨리 (HENRY)",
+            "title": "오늘 하루만",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/474/87125474_1767928295552_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113370828",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "Nosun & ZENE THE ZILLA (제네 더 질라)",
+            "title": "AMBITION 1/10",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/117/336/87117336_1767754409914_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113343696",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "에스더 (AESTHER)",
+            "title": "Starlight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/121/413/87121413_1767836490670_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113356915",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "김길영",
+            "title": "어쩌면 난",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/599/87122599_1767858990308_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113361257",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZEROBASEONE (제로베이스원)",
+            "title": "Running to Future",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/121/584/87121584_1767838330656_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113357432",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "Bruno Mars",
+            "title": "I Just Might",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/492/87125492_1767934962854_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113370955",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "루피 (Loopy)",
+            "title": "SEOUL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/247/87118247_1767768393503_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346985",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍중 (ATEEZ) & 성화 (ATEEZ) & 윤호 (ATEEZ) & 우영 (ATEEZ) & 씰룩 (Sealook)",
+            "title": "씰룩(SEALOOK)2 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/367/87122367_1767935064474_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113360385",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "하데스(HADES)",
+            "title": "두번째 지구",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/504/87118504_1767771739582_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113347863",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "민경훈 (버즈)",
+            "title": "죄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/354/87122354_1767854206288_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113360300",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "여은",
+            "title": "넌 알고 있을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/828/87114828_1767766231846_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113335620",
+            "found_at": "2026-01-10 17:32",
+            "is_tracked": false
+        },
         {
             "artist": "스디 (sdy)",
             "title": "캥거루",
