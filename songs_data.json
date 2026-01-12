@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-12 12:19:12",
+    "updated_at": "2026-01-12 17:46:39",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "ALPHA DRIVE ONE (알파드라이브원)",
+            "title": "EUPHORIA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/997/023/86997023_1767924720911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113361101",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "도겸X승관 (SEVENTEEN)",
+            "title": "도겸X승관 1st Mini Album '소야곡'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/133/159/87133159_1768173093722_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113398433",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "전유진",
+            "title": "하루만 나의 꿈속에 다녀가세요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/900/87125900_1767938794507_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113372892",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "션케이 (Sean.K)",
+            "title": "Drnk textin'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/614/87122614_1767940949141_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113361306",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "임성현",
+            "title": "누구보다 아픈 이별",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/982/87125982_1767940634408_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113373187",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "김모이 (Kim Moi)",
+            "title": "Shawty Type",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/120/691/87120691_1767821190859_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113354579",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "KickFlip (킥플립)",
+            "title": "은애하는 도적님아 OST Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/191/87114191_1767676291177_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113332816",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "허각",
+            "title": "첫눈이 오면 잊을 수 있을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/478/87125478_1767928593385_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113370834",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "제휘 & 민서 (MINSEO)",
+            "title": "경도를 기다리며 Vol.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/496/87122496_1767940898500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113360994",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "투앤비 (2NB)",
+            "title": "그날 널 만나지 않았다면 (투앤비 (2NB) X Urban City)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/821/87125821_1767936095702_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113372498",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "PATZ",
+            "title": "Signal version",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/124/692/87124692_1767913894446_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113368169",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "나상도",
+            "title": "휴게소 부르스",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/475/87125475_1767928299330_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113370829",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "김중연",
+            "title": "화려한 날들 OST Part.24",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/044/87114044_1767669531455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113331956",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "fish dish",
+            "title": "missing tooth",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/292/87114292_1767773569128_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113333168",
+            "found_at": "2026-01-12 17:46",
+            "is_tracked": false
+        },
         {
             "artist": "널디나 (nerdina)",
             "title": "why do you love me?",
