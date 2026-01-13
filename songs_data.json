@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-13 12:09:59",
+    "updated_at": "2026-01-13 17:41:50",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "강남",
+            "title": "스프링 피버 OST Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/422/87125422_1767927117209_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113370644",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "볼빨간사춘기",
+            "title": "마음을 잃다 (베일드뮤지션 X 볼빨간사춘기 with 여의도동 쓰리스타)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/826/87122826_1768182491652_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113361934",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "n.SSign (엔싸인)",
+            "title": "n.SSign 'Funky like me'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/133/407/87133407_1768182405562_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113399303",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "LNGSHOT",
+            "title": "SHOT CALLERS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/071/353/87071353_1768270390509_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113421258",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "정창룡",
+            "title": "저 장가갑니다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/135/820/87135820_1768208190317_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113408120",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "영주",
+            "title": "없는 엔딩(Feat.TRADE L)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/116/920/87116920_1767934404833_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113342054",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "블루 스마일",
+            "title": "둘만의 하이웨이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/135/766/87135766_1768207669113_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113407949",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "제이세라 (J-Cera)",
+            "title": "모든 날이 감사해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/133/380/87133380_1768187541907_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113399249",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "XEN",
+            "title": "드라마 '빌런즈' 삽입곡 - Rock With Us",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/668/87114668_1767690401639_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113334801",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "디케이소울 (DKsoul)",
+            "title": "Again",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/161/87122161_1768184415744_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113359478",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "ST ABEL",
+            "title": "TICOTINE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/117/423/87117423_1768182499567_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113344025",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "ALPHA DRIVE ONE (알파드라이브원)",
+            "title": "EUPHORIA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/997/023/86997023_1767924720911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113361101",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "도겸X승관 (SEVENTEEN)",
+            "title": "도겸X승관 1st Mini Album '소야곡'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/133/159/87133159_1768173093722_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113398433",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "전유진",
+            "title": "하루만 나의 꿈속에 다녀가세요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/900/87125900_1767938794507_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113372892",
+            "found_at": "2026-01-13 17:41",
+            "is_tracked": false
+        },
         {
             "artist": "Livin blu",
             "title": "흔적",
