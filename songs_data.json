@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-14 12:16:42",
+    "updated_at": "2026-01-14 17:43:00",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "TOIL & Jayci yucca (제이씨 유카)",
+            "title": "수지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/140/088/87140088_1768272702092_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113422806",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "인성",
+            "title": "Crossfade:",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/141/316/87141316_1768286490635_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113427539",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "공기남",
+            "title": "우리가 만약 헤어지고 멀어지더라도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/139/582/87139582_1768289210666_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113420785",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "김보경 (NEON)",
+            "title": "기분 좋은 꿈을 꾸러 가요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/859/87125859_1767947008307_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113372706",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "LU'NIZE",
+            "title": "CHILL (웹툰 '구세라' OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/139/865/87139865_1768269998487_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113421834",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "원위 (ONEWE)",
+            "title": "관람차 (Ferris wheel)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/141/791/87141791_1768291339666_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113429529",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "HYESUNG (혜성)",
+            "title": "Your Side",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/134/631/87134631_1768195600566_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113403908",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "정남도",
+            "title": "살며시 널 보며 웃는다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/139/978/87139978_1768271275858_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113422349",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "임우태",
+            "title": "My Winter",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/133/502/87133502_1768288183148_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113399821",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "강남",
+            "title": "스프링 피버 OST Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/422/87125422_1767927117209_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113370644",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "볼빨간사춘기",
+            "title": "마음을 잃다 (베일드뮤지션 X 볼빨간사춘기 with 여의도동 쓰리스타)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/826/87122826_1768182491652_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113361934",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "n.SSign(엔싸인)",
+            "title": "n.SSign 'Funky like me'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/133/407/87133407_1768182405562_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113399303",
+            "found_at": "2026-01-14 17:43",
+            "is_tracked": false
+        },
         {
             "artist": "Capstone Endore (캡스톤 엔도어)",
             "title": "경계선",
