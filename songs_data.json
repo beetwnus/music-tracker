@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-15 12:11:59",
+    "updated_at": "2026-01-15 17:41:39",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "LIGHTSUM",
+            "title": "아름답고도 아프구나 (상아, 초원, 주현)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/996/87146996_1768377741932_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113447527",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": true
+        },
+        {
+            "artist": "스트레이 (The Stray)",
+            "title": "아직도 난 머물러 있네요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/126/427/87126427_1768369830266_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113374717",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "조곤",
+            "title": "드라마 '빌런즈' 삽입곡 - Farewell to Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/041/87114041_1767669516810_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113331954",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "석촌동 끼쟁이",
+            "title": "베일드뮤지션 - Final Episode",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/145/128/87145128_1768447396686_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113440891",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "보라 (BORA)",
+            "title": "목도리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/157/87146157_1768366290617_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113444361",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Y0UNG VA$$",
+            "title": "ALZ-113",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/139/751/87139751_1768268812984_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113421373",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "ChRocktikal (크록티칼)",
+            "title": "We break, you awake",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/989/87146989_1768377713594_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113447529",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "황병희",
+            "title": "친밀한 리플리 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/135/292/87135292_1768289221762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113406328",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "비비안 (BBAHN)",
+            "title": "괜찮나요 정말 괜찮은가요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/133/489/87133489_1768187514919_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113399587",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "TOIL & Jayci yucca (제이씨 유카)",
+            "title": "수지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/140/088/87140088_1768272702092_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113422806",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "인성",
+            "title": "Crossfade:",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/141/316/87141316_1768286490635_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113427539",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "공기남",
+            "title": "우리가 만약 헤어지고 멀어지더라도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/139/582/87139582_1768289210666_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113420785",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "김보경 (NEON)",
+            "title": "기분 좋은 꿈을 꾸러 가요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/125/859/87125859_1767947008307_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113372706",
+            "found_at": "2026-01-15 17:41",
+            "is_tracked": false
+        },
         {
             "artist": "4BOUT (어바웃)",
             "title": "환승연애4 OST Part 11",
