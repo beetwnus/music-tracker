@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-16 12:10:10",
+    "updated_at": "2026-01-16 17:40:30",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "엔하이픈 (ENHYPEN)",
+            "title": "THE SIN : VANISH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/152/650/87152650_1768493791153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113468529",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "김민석 (멜로망스)",
+            "title": "이 사랑 통역 되나요? (Soundtrack from the Netflix Series)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/145/960/87145960_1768364214149_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113443823",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "하동균",
+            "title": "너를 찾아 걷네",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/141/593/87141593_1768383131593_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113428781",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "정동원",
+            "title": "뜨겁게도 사랑했고, 차갑게도 멀어졌다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/670/87150670_1768444594833_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460529",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "영재",
+            "title": "〈신비아파트 10주년 극장판: 한 번 더, 소환〉 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/135/444/87135444_1768204032322_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113406873",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "탑현",
+            "title": "어른이 되어버린 소년은",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/151/695/87151695_1768462590698_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113464653",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "파랑새가 되어줄게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/114/290/87114290_1768207043086_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113333153",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세준 (유리상자) & 박시환",
+            "title": "Month Lee 2601",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/126/196/87126196_1768286441785_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113373864",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "김소년 (BoyKim)",
+            "title": "마지막 약속 (The Last Promise)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/139/87122139_1768470540501_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113359391",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "Monello",
+            "title": "Milky Way (feat. NO:EL)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/145/120/87145120_1768354908863_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113440804",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "정지우",
+            "title": "perfect",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/105/425/87105425_1767605690806_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113289061",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "Charlie Puth",
+            "title": "Beat Yourself Up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/144/917/87144917_1768352513880_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113440129",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "지코 (ZICO) & 크러쉬",
+            "title": "Yin and Yang",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/766/87150766_1768445544751_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460965",
+            "found_at": "2026-01-16 17:40",
+            "is_tracked": false
+        },
         {
             "artist": "정인 & 조정치 & 라디 (Ra. D)",
             "title": "하얀곰 프로젝트 Vol.1",
