@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-18 12:13:37",
+    "updated_at": "2026-01-18 17:33:04",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,158 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "케이시 (Kassy)",
+            "title": "은애하는 도적님아 OST Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/396/87146396_1768368824837_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113445161",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": true
+        },
+        {
+            "artist": "녹색지대 & 아샤트리 & 이예은",
+            "title": "그래 늦지 않았어 (2026 녹색지대 ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/141/869/87141869_1768291936771_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113429837",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sondia",
+            "title": "사랑이 어려운 이유 (Positively Yours X Sondia)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/151/942/87151942_1768467101581_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113465606",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하영 (프로미스나인)",
+            "title": "언더커버 미쓰홍 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/151/696/87151696_1768462593894_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113464657",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "차진모",
+            "title": "내가 어떻게 해야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/651/87150651_1768444295303_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460334",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "SEUNGHOO (승후)",
+            "title": "SUGAR RUSH (feat. jikamarie)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/142/181/87142181_1768384060273_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113431055",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "이혁",
+            "title": "Wish＋ Ep. 01 : 나를 살게하는 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/151/692/87151692_1768462315561_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113464641",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "LEY (래이)",
+            "title": "Read Only",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/765/87150765_1768445539241_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460964",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "백예슬",
+            "title": "마리와 별난 아빠들 OST Part.11",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/707/87146707_1768470518368_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113446266",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "한준범",
+            "title": "화려한 날들 OST Part.26",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/147/067/87147067_1768379509642_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113447877",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "현 (Hyun)",
+            "title": "파란나비",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/141/682/87141682_1768457370155_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113429049",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "이현도 (D.O)",
+            "title": "마지막 눈물이 마르면 ［Feat. 핫펠트(HA:TFELT)］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/155/012/87155012_1768535332086_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113478502",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "요아리 (Yoari)",
+            "title": "오늘부터 인간입니다만 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/140/087/87140087_1768272696515_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113422804",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "주윤하",
+            "title": "러브 미 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/155/87146155_1768530829092_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113444357",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "109",
+            "title": "별도 달도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/736/814/86736814_1768355281907_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113440800",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "모어 (more)",
+            "title": "너만 보면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/566/87150566_1768442496679_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113459980",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "harusok",
+            "title": "쿵쿵쿵",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/141/373/87141373_1768294513305_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113428019",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "마션 (Martian) & 서진",
+            "title": "Seojin on Mars",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/662/87146662_1768470512126_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113446175",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "Felic (펠릭)",
+            "title": "화려한 날들 OST Part.25",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/147/044/87147044_1768378946688_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113447773",
+            "found_at": "2026-01-18 17:33",
+            "is_tracked": false
+        },
         {
             "artist": "A-1000",
             "title": "Annie",
