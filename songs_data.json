@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-20 12:15:09",
+    "updated_at": "2026-01-20 17:47:01",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "성한빈 (ZEROBASEONE)",
+            "title": "스프링 피버 OST Part 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/657/87146657_1768372297612_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113446081",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "원어스 (ONEUS)",
+            "title": "原",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/503/87164503_1768812707741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512168",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "KickFlip (킥플립)",
+            "title": "From KickFlip, To WeFlip",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/192/87164192_1768807892380_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113510993",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "스웨덴세탁소",
+            "title": "영영",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/140/87122140_1768465885516_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113359389",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "바이미 (by me)",
+            "title": "보이나요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/524/87164524_1768813007871_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512249",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "라포엠 (LA POEM)",
+            "title": "ALIVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/517/87164517_1768812756178_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512214",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "반광옥",
+            "title": "깨지 않을 꿈이길",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/915/87150915_1768546636238_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113461608",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "뉴챔프",
+            "title": "YAMA and LOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/163/932/87163932_1768817626193_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113510059",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "이브 (Eve)",
+            "title": "타임머신",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/139/938/87139938_1768270917529_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113422125",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "수영동 써리원",
+            "title": "기억속의 먼 그대에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/163/481/87163481_1768814504699_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113508220",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "0607 & Like aholic & Washer",
+            "title": "FISHTAIL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/246/87164246_1768808819614_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113511147",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "양해달",
+            "title": "첫사랑의 계절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/151/945/87151945_1768787565822_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113465640",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "타르트",
+            "title": "겨울바다에서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/155/836/87155836_1768806588255_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113480787",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "하루",
+            "title": "잘 지내요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/151/971/87151971_1768549567133_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113465891",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "EXO",
+            "title": "REVERXE - The 8th Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/052/519/87052519_1768786191553_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113074172",
+            "found_at": "2026-01-20 17:47",
+            "is_tracked": false
+        },
         {
             "artist": "려진",
             "title": "일방통행 (Feat. 황세현)",
