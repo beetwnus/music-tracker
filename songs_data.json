@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-21 12:14:21",
+    "updated_at": "2026-01-21 17:46:55",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "반하나 & 경서 (경서예지) & 투앤비",
+            "title": "웃으며 X 스윗슈가 프로젝트",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/564/87168564_1768888084836_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113528418",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "1VERSE",
+            "title": "WABIF (Wide Awake before I Fall)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/601/87150601_1768442831190_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460124",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "AxMxP (에이엠피)",
+            "title": "Amplify My Way",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/714/87168714_1768891303141_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113528932",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "16",
+            "title": "Daisy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/070/640/87070640_1768962785074_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113150992",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "dodree (도드리)",
+            "title": "꿈만 같았다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/169/215/87169215_1768897618675_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113530463",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "화사 (HWASA)",
+            "title": "프로젝트 Y (Original Motion Picture Soundtrack)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/475/87164475_1768894350753_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512089",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": true
+        },
+        {
+            "artist": "전상근",
+            "title": "오늘 밤, 세계에서 이 사랑이 사라진다 해도 X 전상근",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/742/87168742_1768891671764_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113529012",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sunday Moon",
+            "title": "Movie",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/122/534/87122534_1768955210137_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113361073",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "리뎀션즈",
+            "title": "Who U R",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/449/87168449_1768887098166_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113528022",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "최하리",
+            "title": "JUMPER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/938/87168938_1768894894808_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113529557",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "성한빈 (ZEROBASEONE)",
+            "title": "스프링 피버 OST Part 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/657/87146657_1768372297612_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113446081",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "원어스 (ONEUS)",
+            "title": "原",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/503/87164503_1768812707741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512168",
+            "found_at": "2026-01-21 17:46",
+            "is_tracked": false
+        },
         {
             "artist": "몬트 (M.O.N.T)",
             "title": "History",
