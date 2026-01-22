@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-22 17:46:46",
+    "updated_at": "2026-01-22 23:46:47",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,14 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "XG",
+            "title": "THE CORE - 核",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/845/87082845_1766460694169_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203189",
+            "found_at": "2026-01-22 23:46",
+            "is_tracked": false
+        },
         {
             "artist": "TNX",
             "title": "CALL ME BACK",
