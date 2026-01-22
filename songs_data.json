@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-22 12:17:32",
+    "updated_at": "2026-01-22 17:46:46",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "TNX",
+            "title": "CALL ME BACK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/602/87150602_1768442834177_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460125",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "이바다",
+            "title": "off-line",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/310/87174310_1768979191656_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113551265",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "CIKI",
+            "title": "Reindeer",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/600/87150600_1768442830229_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460123",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hebi",
+            "title": "Become",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/615/87174615_1768981914292_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113552314",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": true
+        },
+        {
+            "artist": "스티 (STi)",
+            "title": "UPDATE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/162/87174162_1768976811290_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113550656",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "감일동 솜사탕",
+            "title": "I Dream",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/163/910/87163910_1768982148515_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113509918",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "제이세라 (J-Cera)",
+            "title": "드라마 '빌런즈' 삽입곡 - This Sad Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/139/946/87139946_1768270938419_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113422206",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "104 (백사)",
+            "title": "때(時)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/710/87168710_1768982158035_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113528876",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "HOON",
+            "title": "순애 (殉愛)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/172/596/87172596_1768957917915_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113544251",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "리디아 (Lydia)",
+            "title": "사랑도 헤어짐도 내 몫이죠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/167/356/87167356_1768897592279_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113523271",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "프레디 카소 (Fredi Casso)",
+            "title": "Tobago",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/134/572/87134572_1768980603109_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113403837",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "반하나 & 경서 (경서예지) & 투앤비",
+            "title": "웃으며 X 스윗슈가 프로젝트",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/564/87168564_1768888084836_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113528418",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "1VERSE",
+            "title": "WABIF (Wide Awake before I Fall)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/601/87150601_1768442831190_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460124",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "AxMxP (에이엠피)",
+            "title": "Amplify My Way",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/714/87168714_1768891303141_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113528932",
+            "found_at": "2026-01-22 17:46",
+            "is_tracked": false
+        },
         {
             "artist": "yawn & min",
             "title": "New Babe",
