@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-23 12:12:25",
+    "updated_at": "2026-01-23 17:44:03",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "ZEROBASEONE (제로베이스원)",
+            "title": "ROSES",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/172/493/87172493_1768964911650_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113543657",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "xeom boi",
+            "title": "Day 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/022/87168022_1768878700697_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113526129",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "MOMOLAND (모모랜드)",
+            "title": "white spring (하얀 봄)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/430/87164430_1768876457137_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113511887",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "최수호",
+            "title": "BIG IMPACT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/135/009/87135009_1768198935207_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113405221",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "켄 (KEN)",
+            "title": "RE:BORN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/179/161/87179161_1769068306140_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113570566",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "박창근",
+            "title": "궁금해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/721/87174721_1768983091429_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113552661",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "ShyboiiTobii (샤이보이토비)",
+            "title": "Withdrawals",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/177/827/87177827_1769044298072_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113564839",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "시호",
+            "title": "텅",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/833/87178833_1769063490391_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113569036",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "케시아 (KESSIA)",
+            "title": "choose",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/684/87164684_1768960827642_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512810",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "SHARKI",
+            "title": "gambler",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/044/87164044_1768876510321_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113510506",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "XG",
+            "title": "THE CORE - 核",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/082/845/87082845_1766460694169_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113203189",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "TNX",
+            "title": "CALL ME BACK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/150/602/87150602_1768442834177_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113460125",
+            "found_at": "2026-01-23 17:44",
+            "is_tracked": false
+        },
         {
             "artist": "Harry Styles",
             "title": "Aperture",
