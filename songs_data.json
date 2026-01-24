@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-24 12:06:12",
+    "updated_at": "2026-01-24 17:33:15",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,134 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "jambino",
+            "title": "valentine baby",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/167/707/87167707_1768874837258_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113524805",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "모니카 & SLAY (슬레이)",
+            "title": "Break Free",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/179/477/87179477_1769075304416_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113572701",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "off the menu (오프더메뉴)",
+            "title": "LOVE IS A WEAPON!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/179/289/87179289_1769071300260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113571415",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "지성",
+            "title": "판사 이한영 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/182/689/87182689_1769149648053_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113586868",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "Deepshower (딥샤워) & 펀치넬로 (punchnello)",
+            "title": "PUNCHSHOWER 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/173/234/87173234_1769071419501_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113547052",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "배기성",
+            "title": "언더커버 미쓰홍 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/182/041/87182041_1769137016717_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113584313",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "미혜",
+            "title": "미혜의 밤",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/169/208/87169208_1768968868393_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113530435",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "볼보이어택스 (Ballboyattacks)",
+            "title": "바람이 되어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/173/038/87173038_1769160477689_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113546309",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZEROBASEONE (제로베이스원)",
+            "title": "ROSES",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/172/493/87172493_1768964911650_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113543657",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "xeom boi",
+            "title": "Day 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/022/87168022_1768878700697_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113526129",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "MOMOLAND (모모랜드)",
+            "title": "white spring (하얀 봄)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/430/87164430_1768876457137_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113511887",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "최수호",
+            "title": "BIG IMPACT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/135/009/87135009_1768198935207_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113405221",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "켄 (KEN)",
+            "title": "RE:BORN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/179/161/87179161_1769068306140_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113570566",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "박창근",
+            "title": "궁금해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/721/87174721_1768983091429_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113552661",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "ShyboiiTobii (샤이보이토비)",
+            "title": "Withdrawals",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/177/827/87177827_1769044298072_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113564839",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "시호",
+            "title": "텅",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/833/87178833_1769063490391_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113569036",
+            "found_at": "2026-01-24 17:33",
+            "is_tracked": false
+        },
         {
             "artist": "키제 (Ki:XÉ)",
             "title": "BOMB!",
