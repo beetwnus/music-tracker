@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-26 12:33:51",
+    "updated_at": "2026-01-26 17:48:41",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "이준호",
+            "title": "사계(Always)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/769/87174769_1768984327087_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113552874",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "KiiiKiii (키키)",
+            "title": "Delulu Pack",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/787/87178787_1769390200508_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113568760",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": true
+        },
+        {
+            "artist": "TOVE",
+            "title": "새로고침(F5)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/182/973/87182973_1769153490294_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113587814",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "MY:RAKL",
+            "title": "별들에게 물어봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/183/194/87183194_1769155903745_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113588465",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "2단지",
+            "title": "공중 산책",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/135/369/87135369_1769243871710_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113406642",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "로코베리",
+            "title": "울어서 미안",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/182/066/87182066_1769137336878_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113584369",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "Watermelon",
+            "title": "18 to 20",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/153/670/86153670_1769158058950_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113588946",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "재한 (OMEGA X) & 한겸 (OMEGA X)",
+            "title": "드라마 '빌런즈' 삽입곡",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/871/87174871_1768985287459_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113553212",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "정욱",
+            "title": "난 네가 그리운데 넌 내가 그립지 않나 봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/648/87178648_1769059290528_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113567939",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "NWHI",
+            "title": "Siren Call",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/181/888/87181888_1769133122685_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113583264",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "하현상",
+            "title": "은애하는 도적님아 OST Part 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/080/87174080_1768975904815_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113550356",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "필헌",
+            "title": "매일 듣는 노래(2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/923/87146923_1768376206844_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113447248",
+            "found_at": "2026-01-26 17:48",
+            "is_tracked": false
+        },
         {
             "artist": "준지 (Junji)",
             "title": "스프링 피버 OST Part 6",
