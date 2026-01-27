@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-27 12:16:12",
+    "updated_at": "2026-01-27 17:47:56",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "FIFTY FIFTY",
+            "title": "스프링 피버 OST Part 7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/182/102/87182102_1769137644159_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113584466",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": true
+        },
+        {
+            "artist": "i-dle (아이들)",
+            "title": "Mono (Feat. skaiwater)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/248/87191248_1769416298740_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113621213",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": true
+        },
+        {
+            "artist": "김재영",
+            "title": "아이돌아이 OST Part.9",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/183/448/87183448_1769160693286_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113589181",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "AB6IX (에이비식스)",
+            "title": "1분 1초",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/181/990/87181990_1769418785396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113583979",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "Billlie (빌리)",
+            "title": "cloud palace ~ false awakening",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/282/87191282_1769416907156_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113621412",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": true
+        },
+        {
+            "artist": "에이민",
+            "title": "Love Stay (에이민 X Urban City)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/041/87191041_1769412717401_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113620142",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "영파씨 (YOUNG POSSE)",
+            "title": "VISA / Pilot3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/445/87191445_1769419310345_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113622054",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "제이호 (Jayho) & 아이딜 (iDeal)",
+            "title": "SLOPE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/800/87168800_1769309468281_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113529157",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "김창완밴드",
+            "title": "Seventy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/561/87164561_1769222232608_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512364",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "홀린 (HLIN)",
+            "title": "흔적",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/177/907/87177907_1769391388509_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113565233",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "이준호",
+            "title": "사계(Always)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/769/87174769_1768984327087_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113552874",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "TOVE",
+            "title": "새로고침(F5)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/182/973/87182973_1769153490294_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113587814",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "MY:RAKL",
+            "title": "별들에게 물어봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/183/194/87183194_1769155903745_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113588465",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "2단지",
+            "title": "공중 산책",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/135/369/87135369_1769243871710_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113406642",
+            "found_at": "2026-01-27 17:47",
+            "is_tracked": false
+        },
         {
             "artist": "정윤 & YELO (옐로)",
             "title": "Ordinary girl",
