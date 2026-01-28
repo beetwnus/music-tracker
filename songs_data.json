@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-28 12:14:10",
+    "updated_at": "2026-01-28 17:48:19",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Gist",
+            "title": "R&G",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/193/693/87193693_1769491890560_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113635220",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "8TURN (에잇턴)",
+            "title": "The 3rd Digital Single BRUISE(불씨)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/533/87191533_1769421396800_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113622384",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "이효리",
+            "title": "마음, 얼음처럼, 단단하게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/873/87194873_1769502990802_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113641180",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "탁송이",
+            "title": "행복했을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/193/253/87193253_1769561575100_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113632874",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "POW (파우)",
+            "title": "COME TRUE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/269/87194269_1769493396124_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113638063",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "Azikazin Magic World",
+            "title": "Memory Overdrive",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/183/187/87183187_1769155893096_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113588443",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "정동면 강철성대",
+            "title": "미워요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/190/401/87190401_1769482063198_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113616765",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "로시 (Rothy)",
+            "title": "일러스트 뮤직 콜라보 with 키크니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/669/87194669_1769497445099_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113639722",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": true
+        },
+        {
+            "artist": "양다일",
+            "title": "달 (오늘 밤, 세계에서 이 사랑이 사라진다 해도 X 양다일)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/899/87194899_1769503092563_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113641272",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "포더모어",
+            "title": "HIGHLIGHT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/083/87191083_1769417723637_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113620349",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "미소",
+            "title": "Like a movie",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/935/87194935_1769503890486_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113641503",
+            "found_at": "2026-01-28 17:48",
+            "is_tracked": false
+        },
         {
             "artist": "줍에이 (Joob A)",
             "title": "Winter.",
