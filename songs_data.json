@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-29 12:48:31",
+    "updated_at": "2026-01-29 17:59:30",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,142 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "김태래 (ZEROBASEONE)",
+            "title": "테러맨 OST 오프닝",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/190/293/87190293_1769391090492_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113616017",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "기리보이 & 헤이즈 (Heize)",
+            "title": "안 될 사람",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/198/048/87198048_1769571400281_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113657631",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "수안 (SWAN) (PURPLE KISS)",
+            "title": "영화 '즐거운 나의 집' Special Track. 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/193/151/87193151_1769475133634_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113632091",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": true
+        },
+        {
+            "artist": "이영현",
+            "title": "툭하면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/200/87199200_1769587925665_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113662367",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "WHIB (휘브)",
+            "title": "ROCK THE NATION",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/197/838/87197838_1769568624319_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113656538",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "루피 (Loopy)",
+            "title": "SEOUL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/247/87118247_1767768393503_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346985",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "유회승 (엔플라잉)",
+            "title": "도망가자 (Run With Me)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/226/87199226_1769588344038_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113662493",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "Dbo (디보)",
+            "title": "Let it burn",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/188/426/87188426_1769652269959_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113607630",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "이라온",
+            "title": "이름 없는 블루",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/663/87168663_1769582586161_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113528768",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지함",
+            "title": "Forever Mine",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/193/620/87193620_1769575372462_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113634927",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "김우도",
+            "title": "Trash",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/092/87194092_1769584772492_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113637282",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "서현준",
+            "title": "안보면 잊혀질 줄 알았어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/198/322/87198322_1769575647072_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113658675",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "여은",
+            "title": "영화 보이 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/369/87191369_1769495313746_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113621762",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "EL RUNE & KIKIRI",
+            "title": "X",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/817/87178817_1769583651115_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113568905",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "디케이소울 (DKsoul)",
+            "title": "미리 정해진 결말처럼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/193/410/87193410_1769503336963_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113633889",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤태경",
+            "title": "다신 오지 않을 순간",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/190/716/87190716_1769418717057_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113618828",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "하영훈",
+            "title": "사랑하는 동안에는 많은일이 있는거야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/921/87164921_1768824135138_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113514024",
+            "found_at": "2026-01-29 17:59",
+            "is_tracked": false
+        },
         {
             "artist": "이민혁 & 손혜은",
             "title": "［나는 SOLO］ OST part.1",
