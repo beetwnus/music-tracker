@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-30 12:50:57",
+    "updated_at": "2026-01-30 17:55:35",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "공원",
+            "title": "곰팡이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/040/87191040_1769412712004_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113620144",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "채령 (ITZY)",
+            "title": "오늘부터 인간입니다만 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/881/87194881_1769503021253_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113641211",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": true
+        },
+        {
+            "artist": "버벌진트 (Verbal Jint)",
+            "title": "내가 그걸 모를까 2026",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/203/362/87203362_1769666807239_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113680762",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "이우",
+            "title": "［ASTROCHILD IN THE LONELY PLANET］ 이우 - 낯선 이 어둠 속에서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/203/619/87203619_1769672494765_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113682111",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "DIMO REX",
+            "title": "INTOXICATED",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/888/87194888_1769575384546_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113641255",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤종신",
+            "title": "2026 월간 윤종신 Repair 1월호",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/203/338/87203338_1769665909974_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113680640",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "노태현",
+            "title": "영화처럼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/244/87191244_1769416290475_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113621200",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "entoy",
+            "title": "Further",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/504/87199504_1769593052781_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113663880",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "김태래 (ZEROBASEONE)",
+            "title": "테러맨 OST 오프닝",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/190/293/87190293_1769391090492_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113616017",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "기리보이 & 헤이즈 (Heize)",
+            "title": "안 될 사람",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/198/048/87198048_1769571400281_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113657631",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "이영현",
+            "title": "툭하면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/200/87199200_1769587925665_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113662367",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "WHIB (휘브)",
+            "title": "ROCK THE NATION",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/197/838/87197838_1769568624319_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113656538",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "루피 (Loopy)",
+            "title": "SEOUL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/118/247/87118247_1767768393503_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113346985",
+            "found_at": "2026-01-30 17:55",
+            "is_tracked": false
+        },
         {
             "artist": "손하은",
             "title": "우리",
