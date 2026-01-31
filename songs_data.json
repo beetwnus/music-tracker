@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-01-31 12:43:34",
+    "updated_at": "2026-01-31 17:43:02",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "차가을",
+            "title": "한참 지나서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/198/697/87198697_1769580701691_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113659958",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "조째즈",
+            "title": "오늘 밤은 취해 볼게요 (영화 보이 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/809/87194809_1769668982729_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113640659",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "네이비쿼카 (NavyQuokka)",
+            "title": "정말 죽었다 깨어나도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/197/753/87197753_1769566304654_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113656045",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "장범준",
+            "title": "월말 장범준 '2026년 1월' - 라일락",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/840/87206840_1769752295739_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694662",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "언텔 (untell)",
+            "title": "i wanna believe something",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/173/577/87173577_1768970803908_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113548492",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍승민",
+            "title": "0(Zero) (Positively Yours X 홍승민)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/203/761/87203761_1769675513868_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113682698",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "이규라",
+            "title": "사랑해 미안해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/846/87206846_1769752308453_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694693",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZANMARI(잔마리)",
+            "title": "Fire",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/197/894/87197894_1769581268382_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113656796",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "스티피 (STEEPY)",
+            "title": "DOUGIE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/648/87191648_1769670331303_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113622986",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "공원",
+            "title": "곰팡이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/040/87191040_1769412712004_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113620144",
+            "found_at": "2026-01-31 17:43",
+            "is_tracked": false
+        },
         {
             "artist": "BLUHWA (블루화)",
             "title": "푸른설화 (雪花)",
