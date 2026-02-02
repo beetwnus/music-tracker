@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-02 13:07:00",
+    "updated_at": "2026-02-02 18:07:00",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "ZEROBASEONE (제로베이스원)",
+            "title": "RE-FLOW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/202/886/87202886_1769656310675_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113678490",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤하 (YOUNHA)",
+            "title": "계절범죄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/064/87207064_1769757732271_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113695613",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": true
+        },
+        {
+            "artist": "xeom boi",
+            "title": "Day 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/419/87199419_1769591497032_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113663399",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "초승 (CHOSNG)",
+            "title": "쓸모의 자리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/616/87178616_1769758204582_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113567767",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "D.Ark (디아크)",
+            "title": "LOVEX",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/198/231/87198231_1769667702444_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113658402",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "SLAY (슬레이) & 남규리",
+            "title": "슬픔이 찾아와서 그래 (Prod. 로코베리)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/067/87207067_1769757991989_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113695626",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "구피 (Goopy)",
+            "title": "Loved up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/200/331/87200331_1769615491011_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113667625",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "STB",
+            "title": "My Friends Instrumental",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/198/87199198_1769587915815_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113662357",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "옐 (YEL)",
+            "title": "나르시시스트 (Narcissist)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/203/783/87203783_1769676098018_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113682842",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "Toshi & HYESUNG (혜성)",
+            "title": "Same Days (Feat. Chan)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/202/918/87202918_1769657516865_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113678768",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "에스디",
+            "title": "연애혁명 Remind : 널 기다리며",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/197/908/87197908_1769585240761_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113656969",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "나의 노래 메모장",
+            "title": "スケッチブック (스케치북)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/197/836/87197836_1769760294355_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113656536",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "하모 (hamo)",
+            "title": "시정잡배의 18번",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/198/518/87198518_1769670746692_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113659436",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "Saem (샘)",
+            "title": "Breathe Me In",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/190/289/87190289_1769405218679_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113615996",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "정승환",
+            "title": "은애하는 도적님아 OST Part 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/880/87194880_1769503017639_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113641209",
+            "found_at": "2026-02-02 18:07",
+            "is_tracked": false
+        },
         {
             "artist": "성민 (SUNGMIN)",
             "title": "UNLIMIT",
