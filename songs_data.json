@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-03 12:57:45",
+    "updated_at": "2026-02-03 17:59:41",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,142 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Paul Blanco",
+            "title": "스프링 피버 OST Part 8",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/202/912/87202912_1769657490849_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113678746",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "SOLE (쏠)",
+            "title": "아너 : 그녀들의 법정 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/719/87206719_1769748712616_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694238",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "정은지",
+            "title": "앵무새",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/281/87216281_1770026210723_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113730679",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "차우주",
+            "title": "SAVE ME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/776/87206776_1769750499396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694482",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "인스턴트 로맨틱 플로어 (Instant Romantic Floor)",
+            "title": "냐옹",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/192/87199192_1769665683392_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113662340",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "juun",
+            "title": "MANA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/195/198/87195198_1769508719365_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113642574",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "임단우",
+            "title": "웃으며 보낼게 (임단우 X Urban City)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/344/87215344_1770007896306_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113726653",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "HYPNOSIS THERAPY",
+            "title": "latency",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/778/87178778_1770021788789_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113568692",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "샤 (SYA)",
+            "title": "23:24",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/192/87216192_1770024392875_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113730196",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZEROBASEONE (제로베이스원)",
+            "title": "RE-FLOW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/202/886/87202886_1769656310675_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113678490",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "xeom boi",
+            "title": "Day 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/419/87199419_1769591497032_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113663399",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "초승 (CHOSNG)",
+            "title": "쓸모의 자리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/616/87178616_1769758204582_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113567767",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "D.Ark (디아크)",
+            "title": "LOVEX",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/198/231/87198231_1769667702444_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113658402",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "SLAY (슬레이) & 남규리",
+            "title": "슬픔이 찾아와서 그래 (Prod. 로코베리)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/067/87207067_1769757991989_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113695626",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "구피 (Goopy)",
+            "title": "Loved up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/200/331/87200331_1769615491011_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113667625",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "STB",
+            "title": "My Friends Instrumental",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/199/198/87199198_1769587915815_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113662357",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "옐 (YEL)",
+            "title": "나르시시스트 (Narcissist)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/203/783/87203783_1769676098018_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113682842",
+            "found_at": "2026-02-03 17:59",
+            "is_tracked": false
+        },
         {
             "artist": "YUI",
             "title": "잔열처리",
