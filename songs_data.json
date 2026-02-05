@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-05 12:58:48",
+    "updated_at": "2026-02-05 18:01:24",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "권진아",
+            "title": "테러맨 OST 엔딩",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/521/87206521_1769745137281_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113693378",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "수호 (SUHO)",
+            "title": "［나는 SOLO］ OST part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/520/87215520_1770012690306_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113727502",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "정동원 (JD1)",
+            "title": "소품집 Vol.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/518/87225518_1770197816060_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113765475",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "데이브레이크 (Daybreak)",
+            "title": "우주를 줄게 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/105/87220105_1770164903233_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113744950",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "노윤하",
+            "title": "sonogram",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/223/908/87223908_1770171132312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113758499",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "레이나",
+            "title": "Almost Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/521/87220521_1770113493011_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113746686",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "THE SSYNDROME (더씬드롬)",
+            "title": "Good Boy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/550/87225550_1770198120688_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113765538",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "맥켈리",
+            "title": "오래도록 너를 좋아했다고",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/739/87206739_1769754743267_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694323",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "LAZY",
+            "title": "Kiss me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/249/87219249_1770196081151_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113741583",
+            "found_at": "2026-02-05 18:01",
+            "is_tracked": false
+        },
         {
             "artist": "Mozzy (마지)",
             "title": "Opal",
