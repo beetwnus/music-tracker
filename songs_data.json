@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-05 18:01:24",
+    "updated_at": "2026-02-05 23:57:14",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,22 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Charlie Puth & Kenny G",
+            "title": "Cry",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/227/597/87227597_1770240408485_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113771796",
+            "found_at": "2026-02-05 23:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "몬스타엑스",
+            "title": "growing pains",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/263/87229263_1770273761739_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113778071",
+            "found_at": "2026-02-05 23:57",
+            "is_tracked": false
+        },
         {
             "artist": "권진아",
             "title": "테러맨 OST 엔딩",
