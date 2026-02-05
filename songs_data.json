@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-05 00:00:34",
+    "updated_at": "2026-02-05 12:58:48",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Mozzy (마지)",
+            "title": "Opal",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/231/87206231_1769740300084_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113692187",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "YDG",
+            "title": "King of Kings (feat. 이철규)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/218/574/87218574_1770078715366_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113738280",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "Big Baby Driver & 앙상블 루트",
+            "title": "질문의 노래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/435/87220435_1770196362613_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113746234",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "NewTurn",
+            "title": "Gravity",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/336/87225336_1770194931062_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113764692",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "미래",
+            "title": "GONE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/196/058/87196058_1769533964908_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113647814",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "춘자",
+            "title": "사랑중독",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/688/87224688_1770191864052_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113761775",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "muhpy",
+            "title": "Need Your Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/223/896/87223896_1770171109681_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113758448",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "에피타이저 (Appetizer)",
+            "title": "우울한 날에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/293/87220293_1770114069485_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113745387",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세연",
+            "title": "전하고 싶었어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/223/762/87223762_1770169668661_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113757947",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "owoon",
+            "title": "Bet me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/886/87224886_1770187598627_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113762950",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "curv moon",
+            "title": "heart with color (feat. Kelsey Kuan)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/214/872/87214872_1770169695749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113724601",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지보이 (Eizzyboy)",
+            "title": "혼수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/102/87216102_1770088014430_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113729771",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤대천",
+            "title": "졸업, 먼 훗날 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/249/87207249_1770196387432_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113696212",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "마시따밴드",
+            "title": "마리와 별난 아빠들 OST Part.12",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/218/835/87218835_1770187824939_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113739255",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "카진 (KAJIN)",
+            "title": "오묘백반(奧妙百盤) 003",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/203/546/87203546_1769754733895_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113681835",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "puffitboi (퍼핏보이)",
+            "title": "두 눈이 멀었나 봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/127/87215127_1770003091289_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113725907",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "지코 (ZICO) & Crush",
+            "title": "Yin and Yang (FANXY CHILD Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/989/87219989_1770101797801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113744351",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "한동근",
+            "title": "왜 나만 미안했어야 해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/896/87215896_1770019014768_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113728998",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "임창정",
+            "title": "미친놈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/017/87220017_1770102171298_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113744433",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "BOYNEXTDOOR",
+            "title": "BOYNEXTDOOR TOUR 'KNOCK ON Vol.1' FINAL - LIVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/903/87219903_1770099450860_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113743762",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "SKINZ (스킨즈)",
+            "title": "WHY U MAD",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/000/87220000_1770101822568_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113744399",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "한여름",
+            "title": "보통여자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/564/87191564_1769422612127_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113622636",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "추화정",
+            "title": "아무 일 아니었던 것처럼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/814/87219814_1770098239129_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113743368",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "hayawn (하얀)",
+            "title": "You & me (Feat. Aden)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/915/87219915_1770114081830_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113743853",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "YOUTH",
+            "title": "Tonight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/203/379/87203379_1769667122593_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113680849",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "이야",
+            "title": "아마도 우린 특별할 것 없는 이별이라서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/059/87216059_1770021090562_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113729524",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "뎁트",
+            "title": "Jump Up High",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/862/87219862_1770114065990_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113743646",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "floryy",
+            "title": "Space Walking",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/152/87216152_1770171284349_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113730029",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "강혜정",
+            "title": "오, 나의 사랑하는 이여 ＜뮤지컬 안나 카레니나＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/863/87215863_1770018717046_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113728844",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "마하 (Macha)",
+            "title": "Always",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/241/87216241_1770025071477_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113730461",
+            "found_at": "2026-02-05 12:58",
+            "is_tracked": false
+        },
         {
             "artist": "윤하 (YOUNHA)",
             "title": "계절범죄",
