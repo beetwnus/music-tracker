@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-06 12:57:43",
+    "updated_at": "2026-02-06 18:00:41",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "식구 (SIKKOO)",
+            "title": "home",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/657/87215657_1770015392307_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113728135",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "희재 (SEVENUS) & 형진 (디그니티)",
+            "title": "어느 째즈바 (Memories)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/144/87225144_1770192135069_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113764062",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "한요한",
+            "title": "sarang..",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/228/451/87228451_1770255411129_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113774419",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "식케이 (Sik-K)",
+            "title": "NAMSAN TOWER (feat. LEY)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/228/916/87228916_1770269316668_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113776763",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "이병찬",
+            "title": "사르르",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/279/87229279_1770274050050_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113778143",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "ATEEZ (에이티즈)",
+            "title": "GOLDEN HOUR : Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/145/489/87145489_1768358491789_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113442232",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "Monello",
+            "title": "Outside (feat. KANG HYUK, 이수린)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/223/902/87223902_1770171115383_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113758468",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "MC 스나이퍼",
+            "title": "무소식",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/760/87219760_1770280336368_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113743171",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "아스터 (ASTER)",
+            "title": "Rumble",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/031/87224031_1770197175290_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113758901",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "한지예",
+            "title": "세상에서 가장 듣기 싫은 말",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/483/87229483_1770277890544_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113779055",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "유명한아이",
+            "title": "니가 좋아하는 모든 것들을 해야겠어 Remix",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/080/87224080_1770279658281_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113759115",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "Charlie Puth & Kenny G",
+            "title": "Cry",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/227/597/87227597_1770240408485_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113771796",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "몬스타엑스",
+            "title": "growing pains",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/263/87229263_1770273761739_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113778071",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "권진아",
+            "title": "테러맨 OST 엔딩",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/521/87206521_1769745137281_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113693378",
+            "found_at": "2026-02-06 18:00",
+            "is_tracked": false
+        },
         {
             "artist": "Yunu",
             "title": "dubu",
