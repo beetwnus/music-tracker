@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-07 12:47:45",
+    "updated_at": "2026-02-07 17:45:30",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "웬디 (WENDY)",
+            "title": "오늘부터 인간입니다만 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/054/87215054_1770000527961_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113725507",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": true
+        },
+        {
+            "artist": "조범진",
+            "title": "살아간다는 건",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/222/87219222_1770088295783_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113741294",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "케이시 (Kassy)",
+            "title": "언더커버 미쓰홍 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/000/87233000_1770347860028_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113790481",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": true
+        },
+        {
+            "artist": "모브닝 (MOVNING)",
+            "title": "두번째 길",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/601/87229601_1770280291873_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113779706",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hardy",
+            "title": "7-2 (SEVEN MINUS TWO)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/075/87229075_1770269818198_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113777234",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jun Kurbee",
+            "title": "If the Multiverse is Real",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/244/87224244_1770284675428_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113759759",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "마지(MAZI)",
+            "title": "헤어지는게 맞아 (Feat. 투엣 of 김민기)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/879/87224879_1770274425181_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113762911",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "박도훈",
+            "title": "너와 함께일때",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/838/87206838_1770184373969_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694658",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "식구 (SIKKOO)",
+            "title": "home",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/657/87215657_1770015392307_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113728135",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "희재 (SEVENUS) & 형진 (디그니티)",
+            "title": "어느 째즈바 (Memories)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/144/87225144_1770192135069_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113764062",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "한요한",
+            "title": "sarang..",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/228/451/87228451_1770255411129_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113774419",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "식케이 (Sik-K)",
+            "title": "NAMSAN TOWER (feat. LEY)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/228/916/87228916_1770269316668_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113776763",
+            "found_at": "2026-02-07 17:45",
+            "is_tracked": false
+        },
         {
             "artist": "JINXX",
             "title": "MTW",
