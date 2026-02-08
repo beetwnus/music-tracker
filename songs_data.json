@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-08 13:10:24",
+    "updated_at": "2026-02-08 17:45:03",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "일레인",
+            "title": "은애하는 도적님아 OST Part 6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/860/87219860_1770099100724_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113743617",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "세노",
+            "title": "Blue Fantasy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/717/87224717_1770184297778_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113761920",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "선우정아",
+            "title": "복면가왕 - 더 파이널 마스크",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/232/955/87232955_1770345390722_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113790022",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "먼데이 키즈",
+            "title": "먼키의 발자국 Vol.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/012/87233012_1770348399102_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113790519",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "THAMA",
+            "title": "LOST (Positively Yours X THAMA)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/486/87233486_1770359496719_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113793145",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "Horim & CHES!",
+            "title": "Dizzy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/090/87229090_1770270125928_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113777262",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "송이한",
+            "title": "별무리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/593/87233593_1770361315162_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113793583",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "유후 (U-who)",
+            "title": "예쁘잖아!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/288/87225288_1770258934235_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113764506",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "LODiVE (로다이브)",
+            "title": "Citylight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/851/87224851_1770284678820_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113762675",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "비하트 (B.HEART)",
+            "title": "널 좋아해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/671/87206671_1770341562926_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694055",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "조범진",
+            "title": "살아간다는 건",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/222/87219222_1770088295783_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113741294",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "모브닝 (MOVNING)",
+            "title": "두번째 길",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/601/87229601_1770280291873_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113779706",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hardy",
+            "title": "7-2 (SEVEN MINUS TWO)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/075/87229075_1770269818198_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113777234",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jun Kurbee",
+            "title": "If the Multiverse is Real",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/244/87224244_1770284675428_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113759759",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
+        {
+            "artist": "마지(MAZI)",
+            "title": "헤어지는게 맞아 (Feat. 투엣 of 김민기)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/879/87224879_1770274425181_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113762911",
+            "found_at": "2026-02-08 17:45",
+            "is_tracked": false
+        },
         {
             "artist": "김시원",
             "title": "잘해줄 걸",
