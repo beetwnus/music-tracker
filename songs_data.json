@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-06 20:52:47",
+    "updated_at": "2026-09-07 01:39:09",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Ado",
+            "title": "Suki de Ite",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/116/389/88116389_1788711391207_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88116389",
+            "found_at": "2026-09-07 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "JISOO",
             "title": "CLICK",
@@ -575,15 +583,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/523/87413523_1774254999311_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87413523",
             "found_at": "2026-03-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Baby DONT Cry",
-            "title": "Shapeshifter",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/034/87362034_1773129706834_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87362034",
-            "found_at": "2026-03-11 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1457,15 +1456,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/854/87384854_1773628296803_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87384854",
             "found_at": "2026-03-17 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "YENA",
-            "title": "LOVE CATCHER",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/346/195/87346195_1772787097585_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87346195",
-            "found_at": "2026-03-11 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
